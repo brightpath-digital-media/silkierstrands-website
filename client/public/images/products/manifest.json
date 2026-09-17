@@ -1,0 +1,601 @@
+{
+  "version": 1,
+  "purpose": "Local, manifest-backed product imagery (PF-IMAGES-0917 / SS-IMAGES-0917). Amazon listing images used under the Amazon Associates image-display terms, subject to those terms.",
+  "assets": [
+    {
+      "asin": "B0891843GC",
+      "path": "/images/products/B0891843GC.jpg",
+      "source": "https://m.media-amazon.com/images/I/31uiSvPXibL._SL900_.jpg",
+      "name": "Pureology Hydrate Shampoo",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B00C5AHTVQ",
+      "path": "/images/products/B00C5AHTVQ.jpg",
+      "source": "https://m.media-amazon.com/images/I/61EMhNz0g0L._SL900_.jpg",
+      "name": "Nexxus Therappe Humectress Shampoo & Conditioner",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B005IEK634",
+      "path": "/images/products/B005IEK634.jpg",
+      "source": "https://m.media-amazon.com/images/I/31zbJg7+8ML._SL900_.jpg",
+      "name": "It's a 10 Miracle Hair Mask 8oz",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B001AO0WCG",
+      "path": "/images/products/B001AO0WCG.jpg",
+      "source": "https://m.media-amazon.com/images/I/31i-nW2M-UL._SL900_.jpg",
+      "name": "Moroccanoil Treatment Original",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0BPQZ22R1",
+      "path": "/images/products/B0BPQZ22R1.jpg",
+      "source": "https://m.media-amazon.com/images/I/31PAckx90gL._SL900_.jpg",
+      "name": "ALFAPARF MILANO Semi di Lino Cristalli Liquidi Hair Oil",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0048EZNR4",
+      "path": "/images/products/B0048EZNR4.jpg",
+      "source": "https://m.media-amazon.com/images/I/31sSsd+AX5L._SL900_.jpg",
+      "name": "OGX Argan Oil of Morocco Penetrating Oil",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B01LSUQSB0",
+      "path": "/images/products/B01LSUQSB0.jpg",
+      "source": "https://m.media-amazon.com/images/I/31jBf6HT3nL._SL900_.jpg",
+      "name": "Revlon One-Step Hair Dryer & Volumizer",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0C5S6QZ6Y",
+      "path": "/images/products/B0C5S6QZ6Y.jpg",
+      "source": "https://m.media-amazon.com/images/I/41KHBDrHl1L._SL900_.jpg",
+      "name": "Conair Infiniti PRO Hair Dryer with Diffuser",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B091KB6H1F",
+      "path": "/images/products/B091KB6H1F.jpg",
+      "source": "https://m.media-amazon.com/images/I/31OsTaGBlsL._SL900_.jpg",
+      "name": "BaBylissPRO Nano Titanium Hair Dryer",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0BSHWKW1H",
+      "path": "/images/products/B0BSHWKW1H.jpg",
+      "source": "https://m.media-amazon.com/images/I/31DPRLuAhmL._SL900_.jpg",
+      "name": "T3 SinglePass Luxe 1\\",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B098QTS954",
+      "path": "/images/products/B098QTS954.jpg",
+      "source": "https://m.media-amazon.com/images/I/41SWXagEbmL._SL900_.jpg",
+      "name": "TYMO Ring Hair Straightener Brush",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0B6QGWDKR",
+      "path": "/images/products/B0B6QGWDKR.jpg",
+      "source": "https://m.media-amazon.com/images/I/21UmYiofZRL._SL900_.jpg",
+      "name": "HSI Professional Glider Ceramic Flat Iron",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B00BB8ZIRK",
+      "path": "/images/products/B00BB8ZIRK.jpg",
+      "source": "https://m.media-amazon.com/images/I/41YWHXyhKwL._SL900_.jpg",
+      "name": "Remington Pearl Pro Ceramic Flat Iron",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B09RTLFV3F",
+      "path": "/images/products/B09RTLFV3F.jpg",
+      "source": "https://m.media-amazon.com/images/I/31ysSFwiQ2L._SL900_.jpg",
+      "name": "Remington Shine Therapy 2 inch Hair Straightener",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0DPZLWX8J",
+      "path": "/images/products/B0DPZLWX8J.jpg",
+      "source": "https://m.media-amazon.com/images/I/31xL8qpx7pL._SL900_.jpg",
+      "name": "TYMO CurlPro Plus Automatic Rotating Curling Iron",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B07D37PQGL",
+      "path": "/images/products/B07D37PQGL.jpg",
+      "source": "https://m.media-amazon.com/images/I/61OaFWpCgAL._SL900_.jpg",
+      "name": "OLAPLEX N°.4 Bond Maintenance™ Strengthening Shampoo",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B09B8YQ6RF",
+      "path": "/images/products/B09B8YQ6RF.jpg",
+      "source": "https://m.media-amazon.com/images/I/613FkOeT0aL._AC_SL900_.jpg",
+      "name": "amika The Kure Intense Strength Repair Mask",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0CV7L12SS",
+      "path": "/images/products/B0CV7L12SS.jpg",
+      "source": "https://m.media-amazon.com/images/I/51xb1+gxMpL._SL900_.jpg",
+      "name": "Dyson Airstrait™ Straightener",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B07VYK8GY9",
+      "path": "/images/products/B07VYK8GY9.jpg",
+      "source": "https://m.media-amazon.com/images/P/B07VYK8GY9.01.LZZZZZZZ.jpg",
+      "name": "CHI Spin N Curl 1″ Ceramic Rotating Curling Iron, Rose Gold",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B00J4R760C",
+      "path": "/images/products/B00J4R760C.jpg",
+      "source": "https://m.media-amazon.com/images/I/51gXklsDtmL._SL900_.jpg",
+      "name": "Briogeo Don't Despair, Repair! Deep Conditioning Mask",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B07DCJ91HQ",
+      "path": "/images/products/B07DCJ91HQ.jpg",
+      "source": "https://m.media-amazon.com/images/I/61P2orXBZgL._SL900_.jpg",
+      "name": "COLOR WOW Dream Coat for Curly Hair",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B08MBWGWBQ",
+      "path": "/images/products/B08MBWGWBQ.jpg",
+      "source": "https://m.media-amazon.com/images/I/614AxHDMtaL._SL900_.jpg",
+      "name": "Gisou Honey Infused Hair Oil (1.7 Fl Oz)",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B08KYM3Y6T",
+      "path": "/images/products/B08KYM3Y6T.jpg",
+      "source": "https://m.media-amazon.com/images/I/61oEXxRNtEL._SL900_.jpg",
+      "name": "VEGAMOUR GRO Hair Serum for Hair Thinning & Shedding",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B08LZ1CQRN",
+      "path": "/images/products/B08LZ1CQRN.jpg",
+      "source": "https://m.media-amazon.com/images/I/41akyunUR9L._SL900_.jpg",
+      "name": "OGX Frizz-Free + Keratin Smoothing Oil Shampoo 5-in-1",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0CFG7FKWN",
+      "path": "/images/products/B0CFG7FKWN.jpg",
+      "source": "https://m.media-amazon.com/images/I/513J64kivAL._SL900_.jpg",
+      "name": "MAREE Deep Conditioning Keratin Hair Mask",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B07VR1NDSQ",
+      "path": "/images/products/B07VR1NDSQ.jpg",
+      "source": "https://m.media-amazon.com/images/I/41gaK3FL9GL._SL900_.jpg",
+      "name": "Olaplex No. 7 Bonding Oil",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B00I32AN4K",
+      "path": "/images/products/B00I32AN4K.jpg",
+      "source": "https://m.media-amazon.com/images/I/51KpmxinYYL._SL900_.jpg",
+      "name": "Arvazallia Hydrating Argan Oil Hair Mask and Deep Conditioner",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0B4T6RTZ2",
+      "path": "/images/products/B0B4T6RTZ2.jpg",
+      "source": "https://m.media-amazon.com/images/I/3101eI6zMNL._SL900_.jpg",
+      "name": "Dyson Supersonic Hair Dryer",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B09CP8SSGP",
+      "path": "/images/products/B09CP8SSGP.jpg",
+      "source": "https://m.media-amazon.com/images/I/411uPMs12AL._SL900_.jpg",
+      "name": "Wavytalk Professional Ionic Hair Dryer",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0CRJRB4GS",
+      "path": "/images/products/B0CRJRB4GS.jpg",
+      "source": "https://m.media-amazon.com/images/I/31MmsWszb9L._SL900_.jpg",
+      "name": "BaBylissPRO Nano Titanium Ultra-Thin Straightener",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0B61XH5YT",
+      "path": "/images/products/B0B61XH5YT.jpg",
+      "source": "https://m.media-amazon.com/images/I/318kwbWIgnL._SL900_.jpg",
+      "name": "Dyson Airwrap Multi-Styler Complete Long",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B096SVJZSW",
+      "path": "/images/products/B096SVJZSW.jpg",
+      "source": "https://m.media-amazon.com/images/I/51zDVC6QDiL._SL900_.jpg",
+      "name": "Revlon Salon One-Step Volumizer PLUS 2.0",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B09VCW2SL7",
+      "path": "/images/products/B09VCW2SL7.jpg",
+      "source": "https://m.media-amazon.com/images/I/418fcDVET0L._SL900_.jpg",
+      "name": "NuMe Classic Curling Wand",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0006ZEVU4",
+      "path": "/images/products/B0006ZEVU4.jpg",
+      "source": "https://m.media-amazon.com/images/I/31AsQn8q0hL._SL900_.jpg",
+      "name": "Paul Mitchell Tea Tree Special Shampoo",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B002RS6JSA",
+      "path": "/images/products/B002RS6JSA.jpg",
+      "source": "https://m.media-amazon.com/images/I/31+Y7rEXSrL._SL900_.jpg",
+      "name": "CHI 44 Iron Guard Thermal Protection Spray",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B003981CVQ",
+      "path": "/images/products/B003981CVQ.jpg",
+      "source": "https://m.media-amazon.com/images/I/31Nej6JjwWL._SL900_.jpg",
+      "name": "CHI Air Expert Classic Tourmaline Ceramic Flat Iron",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B08232KQHC",
+      "path": "/images/products/B08232KQHC.jpg",
+      "source": "https://m.media-amazon.com/images/I/41zwnK7vXVL._SL900_.jpg",
+      "name": "ghd Helios Professional Hair Dryer",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B00EX6BVO6",
+      "path": "/images/products/B00EX6BVO6.jpg",
+      "source": "https://m.media-amazon.com/images/I/215LOEpr3HL._SL900_.jpg",
+      "name": "Living Proof Perfect Hair Day 5-in-1 Styling Treatment",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0BZZJYKZ6",
+      "path": "/images/products/B0BZZJYKZ6.jpg",
+      "source": "https://m.media-amazon.com/images/I/31EY3ettbuL._SL900_.jpg",
+      "name": "Kérastase Nutritive Gentle Hydrating Shampoo for Dry Hair",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B072K6B9RF",
+      "path": "/images/products/B072K6B9RF.jpg",
+      "source": "https://m.media-amazon.com/images/I/21Yja0Rx7YL._SL900_.jpg",
+      "name": "Fanola No Yellow Mask",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0007X749U",
+      "path": "/images/products/B0007X749U.jpg",
+      "source": "https://m.media-amazon.com/images/I/313jxM4GoHL._SL900_.jpg",
+      "name": "Redken All Soft Shampoo",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B002N5MKMG",
+      "path": "/images/products/B002N5MKMG.jpg",
+      "source": "https://m.media-amazon.com/images/I/41BfpWb65IL._SL900_.jpg",
+      "name": "Moroccanoil Intense Hydrating Mask",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0G5T91S3F",
+      "path": "/images/products/B0G5T91S3F.jpg",
+      "source": "https://m.media-amazon.com/images/I/31OHYSUxeAL._SL900_.jpg",
+      "name": "John Frieda Frizz Ease Extra Strength Serum",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B09CLN86XB",
+      "path": "/images/products/B09CLN86XB.jpg",
+      "source": "https://m.media-amazon.com/images/I/416Qx+r0zwL._SL900_.jpg",
+      "name": "Shark HyperAIR Fast-Drying Hair Dryer",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B000Q30NDA",
+      "path": "/images/products/B000Q30NDA.jpg",
+      "source": "https://m.media-amazon.com/images/I/41W+pEz5aiL._SL900_.jpg",
+      "name": "HOT TOOLS Pro Artist Tourmaline 2000 Turbo Hair Dryer",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B00FN3EIS4",
+      "path": "/images/products/B00FN3EIS4.jpg",
+      "source": "https://m.media-amazon.com/images/I/51VS8EfMnDL._SL900_.jpg",
+      "name": "tgin Honey Miracle Hair Mask",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B07F7Q4PTN",
+      "path": "/images/products/B07F7Q4PTN.jpg",
+      "source": "https://m.media-amazon.com/images/I/31IQzlVFENL._SL900_.jpg",
+      "name": "ghd Platinum+ Professional Hair Straightener",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0050QJHTO",
+      "path": "/images/products/B0050QJHTO.jpg",
+      "source": "https://m.media-amazon.com/images/I/31MG-juqIQL._SL900_.jpg",
+      "name": "Remington Pro 1\\",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0B3L5PY79",
+      "path": "/images/products/B0B3L5PY79.jpg",
+      "source": "https://m.media-amazon.com/images/I/21ntSUGEvkL._SL900_.jpg",
+      "name": "Beachwaver S1 Rotating Curling Iron",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0BSJH7JKK",
+      "path": "/images/products/B0BSJH7JKK.jpg",
+      "source": "https://m.media-amazon.com/images/I/31semnDSZRL._SL900_.jpg",
+      "name": "T3 Featherweight 3i Professional Ionic Hair Dryer",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0D2LWFF2P",
+      "path": "/images/products/B0D2LWFF2P.jpg",
+      "source": "https://m.media-amazon.com/images/I/310yamSvSnL._SL900_.jpg",
+      "name": "Kérastase Elixir Ultime Refillable Oil – For Shine & Hydration",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B07H3GBSC3",
+      "path": "/images/products/B07H3GBSC3.jpg",
+      "source": "https://m.media-amazon.com/images/I/31c4HCVvaeL._SL900_.jpg",
+      "name": "Amika Soulfood Nourishing Mask",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B08WGJQTN1",
+      "path": "/images/products/B08WGJQTN1.jpg",
+      "source": "https://m.media-amazon.com/images/I/31rX8qF3mzL._SL900_.jpg",
+      "name": "OUAI Hair Mask",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B07PP9MXYY",
+      "path": "/images/products/B07PP9MXYY.jpg",
+      "source": "https://m.media-amazon.com/images/I/31dDthv-ONL._SL900_.jpg",
+      "name": "Wella Professionals Enrich Moisturizing Shampoo",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0B8YCSSWQ",
+      "path": "/images/products/B0B8YCSSWQ.jpg",
+      "source": "https://m.media-amazon.com/images/I/31Gx7800TcL._SL900_.jpg",
+      "name": "Kristin Ess Hair 1.25\\",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0CRG6S7W8",
+      "path": "/images/products/B0CRG6S7W8.jpg",
+      "source": "https://m.media-amazon.com/images/I/31I-TIui6RL._SL900_.jpg",
+      "name": "T3 Switch Kit Curl Trio Interchangeable Curling Iron",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B073ZG6J9N",
+      "path": "/images/products/B073ZG6J9N.jpg",
+      "source": "https://m.media-amazon.com/images/I/51WwrGAzQrL._SL900_.jpg",
+      "name": "Remington S8540 Keratin Protect Straightener",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B01HFH7XKK",
+      "path": "/images/products/B01HFH7XKK.jpg",
+      "source": "https://m.media-amazon.com/images/I/31olE-u1FCL._SL900_.jpg",
+      "name": "BIO IONIC Powerlight Pro Hair Dryer",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0GHSXYY3Z",
+      "path": "/images/products/B0GHSXYY3Z.jpg",
+      "source": "https://m.media-amazon.com/images/I/31yKPzEsBjL._SL900_.jpg",
+      "name": "Olaplex N°.3PLUS Hair Repair Pre-Shampoo Treatment",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0BQ8P9LS2",
+      "path": "/images/products/B0BQ8P9LS2.jpg",
+      "source": "https://m.media-amazon.com/images/I/31W+d88oPAL._SL900_.jpg",
+      "name": "Amika Water Sign Hydrating Hair Oil with Hyaluronic Acid",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B01KNWQW3I",
+      "path": "/images/products/B01KNWQW3I.jpg",
+      "source": "https://m.media-amazon.com/images/I/31NMvWnQR7L._SL900_.jpg",
+      "name": "Kérastase Resistance Therapiste Hair Mask",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B002BU010G",
+      "path": "/images/products/B002BU010G.jpg",
+      "source": "https://m.media-amazon.com/images/I/313Q5vcf8bL._SL900_.jpg",
+      "name": "HOT TOOLS Pro Artist Nano Ceramic 1\\",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B00176B9JC",
+      "path": "/images/products/B00176B9JC.jpg",
+      "source": "https://m.media-amazon.com/images/I/217jM25WWLL._SL900_.jpg",
+      "name": "BaBylissPRO Nano Titanium Ultra-Thin Flat Iron Hair Straightener",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B00RYPLGOI",
+      "path": "/images/products/B00RYPLGOI.jpg",
+      "source": "https://m.media-amazon.com/images/I/31eyRNdz6wL._SL900_.jpg",
+      "name": "Parlux 385 Power Light Ionic and Ceramic Hair Dryer",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B008ORT4NU",
+      "path": "/images/products/B008ORT4NU.jpg",
+      "source": "https://m.media-amazon.com/images/I/31yamlvgqlL._SL900_.jpg",
+      "name": "Bumble and bumble Hairdresser's Invisible Oil",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B09FM2BFPL",
+      "path": "/images/products/B09FM2BFPL.jpg",
+      "source": "https://m.media-amazon.com/images/I/31-Ujw7RztL._SL900_.jpg",
+      "name": "Christophe Robin Regenerating Mask with Prickly Pear Seed Oil",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B00ATT883S",
+      "path": "/images/products/B00ATT883S.jpg",
+      "source": "https://m.media-amazon.com/images/I/31vjKozzUyL._SL900_.jpg",
+      "name": "Philip Kingsley Elasticizer",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B00J9WZZWI",
+      "path": "/images/products/B00J9WZZWI.jpg",
+      "source": "https://m.media-amazon.com/images/I/31nRmCeVMsL._SL900_.jpg",
+      "name": "Biolage Hydra Source Shampoo for Dry Hair",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B08L8D93QB",
+      "path": "/images/products/B08L8D93QB.jpg",
+      "source": "https://m.media-amazon.com/images/I/31UvUCfRhkL._SL900_.jpg",
+      "name": "Joico Color Balance Purple Shampoo",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B00YO38G4Q",
+      "path": "/images/products/B00YO38G4Q.jpg",
+      "source": "https://m.media-amazon.com/images/I/31xF-nAKd0L._SL900_.jpg",
+      "name": "Redken One United All-In-One Leave-In Conditioner",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B08BT948RD",
+      "path": "/images/products/B08BT948RD.jpg",
+      "source": "https://m.media-amazon.com/images/I/61nvyLQ4KPL._SL900_.jpg",
+      "name": "SheaMoisture Curl Enhancing Smoothie",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B075PTW3K4",
+      "path": "/images/products/B075PTW3K4.jpg",
+      "source": "https://m.media-amazon.com/images/I/41EXjzCZzeL._SL900_.jpg",
+      "name": "Mielle Organics Pomegranate & Honey Curl Cream",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B005PV0FDG",
+      "path": "/images/products/B005PV0FDG.jpg",
+      "source": "https://m.media-amazon.com/images/I/31EiA9yWziL._SL900_.jpg",
+      "name": "It's a 10 Miracle Leave-In Product",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B003L3OQ76",
+      "path": "/images/products/B003L3OQ76.jpg",
+      "source": "https://m.media-amazon.com/images/I/31wzKTSKtPL._SL900_.jpg",
+      "name": "Moroccanoil Treatment, 1.7 Fl. Oz.",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0961ZS96M",
+      "path": "/images/products/B0961ZS96M.jpg",
+      "source": "https://m.media-amazon.com/images/I/41dsFtkmj6L._SL900_.jpg",
+      "name": "K18 Leave-In Molecular Repair Hair Mask",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B07N7PK9QK",
+      "path": "/images/products/B07N7PK9QK.jpg",
+      "source": "https://m.media-amazon.com/images/I/31fv6strpIL._SL900_.jpg",
+      "name": "Mielle Organics Rosemary & Mint Scalp & Hair Strengthening Oil",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B07BHCB9Y2",
+      "path": "/images/products/B07BHCB9Y2.jpg",
+      "source": "https://m.media-amazon.com/images/I/511pPBQQFuL._SL900_.jpg",
+      "name": "PURA D'OR Gold Label Anti-Thinning Biotin Shampoo & Conditioner",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B093466RZG",
+      "path": "/images/products/B093466RZG.jpg",
+      "source": "https://m.media-amazon.com/images/I/51i7HyNjHyL._SL900_.jpg",
+      "name": "Not Your Mother's Curl Talk Frizz Control Sculpting Gel & Defining Cream",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B09XBZMG71",
+      "path": "/images/products/B09XBZMG71.jpg",
+      "source": "https://m.media-amazon.com/images/I/3186PbduBNL._SL900_.jpg",
+      "name": "Olaplex Nº. 9 Bond Protector Nourishing Hair Serum",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B00C3HQB9C",
+      "path": "/images/products/B00C3HQB9C.jpg",
+      "source": "https://m.media-amazon.com/images/I/21dQiVwm6tL._SL900_.jpg",
+      "name": "VERB Ghost Oil Weightless Hair Oil",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B07NSZHMWD",
+      "path": "/images/products/B07NSZHMWD.jpg",
+      "source": "https://m.media-amazon.com/images/I/61cWnlADu+L._SL900_.jpg",
+      "name": "SheaMoisture Manuka Honey & Mafura Oil Intensive Hydration Hair Masque",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B0CW7DMH1Z",
+      "path": "/images/products/B0CW7DMH1Z.jpg",
+      "source": "https://m.media-amazon.com/images/I/31t7nZ+DwVL._SL900_.jpg",
+      "name": "Hot Tools Professional 24K Gold Curling Iron",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B07QC43BXB",
+      "path": "/images/products/B07QC43BXB.jpg",
+      "source": "https://m.media-amazon.com/images/I/41MUzj8r4RL._SL900_.jpg",
+      "name": "L'Oreal Paris EverPure Moisture Sulfate-Free Shampoo",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B07H349CVV",
+      "path": "/images/products/B07H349CVV.jpg",
+      "source": "https://m.media-amazon.com/images/I/31sWWExhYeL._SL900_.jpg",
+      "name": "Amika Perk Up Talc-Free Dry Shampoo",
+      "source_type": "Amazon product listing"
+    },
+    {
+      "asin": "B07MGZ6X2Q",
+      "path": "/images/products/B07MGZ6X2Q.jpg",
+      "source": "https://m.media-amazon.com/images/I/31O-GWi8pqL._SL900_.jpg",
+      "name": "Batiste Original Dry Shampoo",
+      "source_type": "Amazon product listing"
+    }
+  ]
+}
