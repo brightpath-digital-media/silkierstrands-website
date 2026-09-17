@@ -21,7 +21,8 @@ const OUTPUT_DIR = resolve(ROOT, ".ops", "content-runs");
 const GENERATED_DIR = resolve(ROOT, ".ops", "generated-content");
 const PRODUCTS_FILE = resolve(ROOT, "client", "src", "lib", "products.ts");
 const RENDERER = resolve(__dirname, "render-content-records.mjs");
-const MAX_TIMEOUT_MS = 120_000;
+// 12k output tokens + up to 8 web searches takes 3-5 min; 120 s timed out at 120,353 ms on run 35168462806.
+const MAX_TIMEOUT_MS = 600_000;
 const MIN_JWT_REMAINING_SECONDS = 90;
 const MAX_JWT_AGE_SECONDS = 90;
 const FEDERATION_VARIABLES = [
