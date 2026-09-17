@@ -199,6 +199,7 @@ function requestObject({ houseStyle, siteProfile, notebook, topic, index }) {
         `Selected topic: ${JSON.stringify(topic)}`,
         "Use the supplied published index to avoid duplicated IDs, slugs, titles, and product records. Use existing IDs when a comparison references a published product.",
         "Every factual claim derived from web search must have a citation object with url and title in the record citations array.",
+        "Never cite a marketplace or retailer product listing (amazon.*, walmart.com, target.com, ebay.*, sleekshop.com and similar) as a source; cite the brand, an ingredient database, a publication, or a study instead. Marketplace links are affiliate destinations, not references.",
         "Return exactly this JSON schema:",
         JSON.stringify(CONTENT_BATCH_SCHEMA),
         "Published article index and internal-link targets:",
@@ -364,6 +365,19 @@ async function main() {
     writeFileSync(RAW_OUTPUT_PATH, `${rawOutput}\n`, "utf8");
     let batch;
     try { batch = JSON.parse(rawOutput); } catch (error) { fail(`Schema gate: Claude output is not valid JSON: ${error.message}`); }
+    // An untagged marketplace URL compiled into the bundle fails the rendered-anchor gate
+    // (run 35168694541: an Amazon listing was cited as a source). Citations are references,
+    // never affiliate destinations, so marketplace hosts are dropped here regardless of the prompt.
+    const MARKETPLACE_HOST = /(^|\.)(amazon\.[a-z.]+|amzn\.to|walmart\.com|target\.com|ebay\.[a-z.]+)$/i;
+    const droppedCitations = [];
+    for (const rec of [...(batch?.products || []), ...(batch?.comparisons || []), ...(batch?.articles || [])]) {
+      if (!Array.isArray(rec?.citations)) continue;
+      rec.citations = rec.citations.filter((c) => {
+        try { if (MARKETPLACE_HOST.test(new URL(c.url).hostname)) { droppedCitations.push(c.url); return false; } } catch {}
+        return true;
+      });
+    }
+    if (droppedCitations.length) console.warn(`Dropped ${droppedCitations.length} marketplace citation(s): ${droppedCitations.join(", ")}`);
     const schemaErrors = validateContentBatch(batch, { publishedIndex: index, expectedDate: RUN_DATE });
     gates["json-schema"] = schemaErrors.length === 0 ? { status: "passed" } : { status: "failed", errors: schemaErrors };
     if (schemaErrors.length) fail(`Schema gate failed:\n- ${schemaErrors.join("\n- ")}`);
