@@ -19,6 +19,19 @@ declare global {
   }
 }
 
+let lastTrackedPath = "";
+
+/** Fire a page_view for client-side route changes (gtag's config call covers only the first load). */
+export function trackPageView(path: string): void {
+  if (typeof window === "undefined" || typeof window.gtag !== "function") return;
+  if (path === lastTrackedPath) return;
+  if (!lastTrackedPath) { lastTrackedPath = path; return; } // first render: already sent by config
+  lastTrackedPath = path;
+  try {
+    window.gtag("event", "page_view", { page_path: path, page_location: window.location.href, page_title: document.title });
+  } catch { /* never throw */ }
+}
+
 /**
  * Fire a GA4 custom event.
  * Safe to call even if gtag hasn't loaded yet — silently no-ops.

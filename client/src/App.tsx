@@ -1,7 +1,9 @@
 import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/NotFound";
-import { Route, Switch } from "wouter";
+import { Route, Switch, useLocation } from "wouter";
+import { useEffect } from "react";
+import { trackPageView } from "@/lib/analytics";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
@@ -17,6 +19,8 @@ import HowWeTest from "./pages/HowWeTest";
 import AuthorPage from "./pages/AuthorPage";
 
 function Router() {
+  const [location] = useLocation();
+  useEffect(() => { trackPageView(location); }, [location]);
   return (
     <Switch>
       <Route path="/" component={Home} />
