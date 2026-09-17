@@ -246,7 +246,9 @@ async function generateWithClaudeSdk(request) {
   // timeout failures remain visible rather than becoming a second article run.
   const client = new Anthropic({ maxRetries: 0, timeout: MAX_TIMEOUT_MS });
   try {
-    return await client.messages.create({ ...request, max_tokens: 12_000 });
+    // 8 web searches spend output budget inside the tool loop (run 35168959833: 24,204
+    // output tokens, JSON truncated at max_tokens=12,000). The batch itself is ~3k tokens.
+    return await client.messages.create({ ...request, max_tokens: 32_000 });
   } catch (error) {
     fail(`Claude SDK request failed: ${error?.message || String(error)}`);
   }
@@ -360,6 +362,9 @@ async function main() {
     const webErrors = classifySearchErrors(searchErrors(response));
     if (webErrors.failures.length) fail(`Claude web search failed: ${JSON.stringify(webErrors.failures)}`);
 
+    if (response?.stop_reason && response.stop_reason !== "end_turn") {
+      fail(`Claude stopped early: stop_reason=${response.stop_reason} (output_tokens=${response?.usage?.output_tokens}); a truncated response is not a schema failure`);
+    }
     const rawOutput = extractOutput(response);
     mkdirSync(dirname(RAW_OUTPUT_PATH), { recursive: true });
     writeFileSync(RAW_OUTPUT_PATH, `${rawOutput}\n`, "utf8");
