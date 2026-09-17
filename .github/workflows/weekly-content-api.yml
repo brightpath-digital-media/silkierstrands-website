@@ -2,7 +2,7 @@ name: Weekly Content API Shadow
 
 on:
   schedule:
-    - cron: "0 13 * * 1"
+    - cron: "0 13 * * 1"   # a schedule fires only if this line was last committed by a real GitHub user (2026-09-17)
   workflow_dispatch: {}
 
 concurrency:
