@@ -2792,6 +2792,111 @@ export function getEditorPicks(): Product[] {
 // COMPARISONS (6 - one per category)
 // ============================================================
 export const comparisons: Comparison[] = [
+  // ── Weekly additions 2026-09-21 ──
+  {
+    id: "olaplex-no4-vs-pureology-hydrate-shampoo",
+    title: "OLAPLEX N°.4 Bond Maintenance Shampoo vs. Pureology Hydrate Shampoo",
+    subtitle: "Strengthening Bond Care vs. Sulfate-Free Hydration: Which Color-Safe Shampoo Fits Your Routine?",
+    category: "Shampoo & Conditioner",
+    categorySlug: "shampoo-conditioner",
+    product1Id: "olaplex-no4-bond-maintenance-shampoo",
+    product2Id: "pureology-hydrate-shampoo",
+    winnerId: "pureology-hydrate-shampoo",
+    winnerReason: "For medium-to-thick, dry, damaged, color-treated hair, Pureology is the more directly audience-matched choice because its official page specifically prioritizes deep hydration, sulfate-free cleansing, and color protection; this is a source-based fit judgment, not hands-on testing.",
+    verdict: "Choose Pureology Hydrate for medium-to-thick dry or dehydrated color-treated hair when moisture retention and sulfate-free cleansing are the priority. Choose OLAPLEX N°.4 instead for straight, wavy, curly, or coily medium-to-coarse hair where the stated priority is strengthening and bond reinforcement. The sources do not establish an independent overall performance winner, and no hands-on testing was performed.",
+    publishDate: "2026-09-21",
+    slug: "olaplex-no4-bond-maintenance-vs-pureology-hydrate-shampoo",
+    hairTypes: [
+      "dry",
+      "color-treated",
+      "thick",
+      "coarse",
+      "curly"
+    ],
+    citations: [
+      {
+        claim: "OLAPLEX says this shampoo is color-safe and designed to strengthen and reinforce bonds while gently cleansing medium-to-coarse chemically treated hair.",
+        url: "https://olaplex.com/products/olaplex-n4-bond-maintenance-strengthening-shampoo-250ml",
+        title: "Nº.4 Bond Maintenance™ Strengthening Shampoo"
+      },
+      {
+        claim: "Pureology describes Hydrate as a sulfate-free moisturizing shampoo for dry, damaged, and color-treated medium-to-thick hair.",
+        url: "https://www.pureology.com/hair-care/hydrate-shampoo-sulfate-free-hair-moisturizing.html",
+        title: "Hydrate Shampoo: Sulfate-Free Hydrating Shampoo for Dry, Color-Treated Hair"
+      }
+    ]
+  },
+  {
+    id: "dyson-airstrait-vs-ghd-platinum-plus-styler",
+    title: "Dyson Airstrait vs. ghd Platinum+ Styler",
+    subtitle: "Wet-to-Dry Airflow Straightening vs. Dry-Hair Plates: Which Straightening Workflow Fits Your Finish?",
+    category: "Flat Irons & Straighteners",
+    categorySlug: "flat-irons",
+    product1Id: "dyson-airstrait-straightener",
+    product2Id: "ghd-platinum-plus",
+    winnerId: "dyson-airstrait-straightener",
+    winnerReason: "For people with wavy, curly, or coily hair who want to move from damp hair to a naturally straight, body-retaining finish in one workflow, Dyson is the better conditional fit because its official guidance specifically supports wet-to-dry airflow styling and a cool finishing step.",
+    verdict: "Choose Dyson Airstrait for a damp-to-dry routine and a natural, volumized or stretched finish, especially for wavy, curly, and coily hair; choose ghd Platinum+ if your priority is dry-hair plated-tool styling, a sleek finish, or curls and waves from its rounded hinge. The sources do not establish an independent winner for speed, durability, or heat damage, so this verdict is workflow- and audience-specific rather than a universal performance claim.",
+    publishDate: "2026-09-21",
+    slug: "dyson-airstrait-vs-ghd-platinum-plus-styler",
+    hairTypes: [
+      "wavy",
+      "curly",
+      "coily",
+      "color-treated",
+      "fine"
+    ],
+    citations: [
+      {
+        claim: "Dyson says the Airstrait dries and straightens hair simultaneously, taking hair from wet to a finished look with one machine.",
+        url: "https://www.dyson.com/hair-care/hair-straighteners/airstrait",
+        title: "Dyson Airstrait™ straightener"
+      },
+      {
+        claim: "ghd directs users to style dry hair and describes Platinum+ as preset to 365°F with precision-milled floating plates.",
+        url: "https://www.ghdhair.com/us/flat-irons/ghd-platinum-plus-black-flat-iron-p-453",
+        title: "ghd Platinum+ Flat Iron (1 inch plate) Black"
+      },
+      {
+        claim: "Dyson describes Airstrait guidance for straight, wavy, curly, and coily hair and a naturally straight or stretched finish with body and shine.",
+        url: "https://www.dyson.com/discover/insights/hair/styles/how-to-use-the-dyson-airstrait-straightener-on-different-hair-types",
+        title: "How to use the Dyson Airstrait™ straightener on different hair types"
+      }
+    ]
+  },
+  {
+    id: "dyson-supersonic-vs-babylisspro-nano-titanium-dryer",
+    title: "Dyson Supersonic vs. BaBylissPRO Nano Titanium Hair Dryer",
+    subtitle: "Intelligent Heat Management vs. 2000W Salon-Style Power: Which Dryer Fits Your Hair and Routine?",
+    category: "Hair Dryers",
+    categorySlug: "hair-dryers",
+    product1Id: "dyson-supersonic",
+    product2Id: "babyliss-nano-titanium-dryer",
+    winnerId: "dyson-supersonic",
+    winnerReason: "Dyson is the conditional winner for fine, damaged, color-treated, curly, or heat-sensitive hair because its cited intelligent heat control and hair-type attachments prioritize heat management; the sources do not establish superior drying speed versus BaBylissPRO.",
+    verdict: "Choose the Dyson Supersonic for fine, damaged, color-treated, curly, or heat-sensitive hair when controlled heat and attachment versatility matter most. Choose the BaBylissPRO for thick or coarse hair, or salon-style users prioritizing a 2000-watt dryer and six settings. This audience-specific call relies on official claims and specifications only, not independent head-to-head testing, so it cannot prove which dries faster or creates better results overall.",
+    publishDate: "2026-09-21",
+    slug: "dyson-supersonic-vs-babylisspro-nano-titanium-dryer",
+    hairTypes: [
+      "fine",
+      "color-treated",
+      "curly",
+      "thick",
+      "coarse"
+    ],
+    citations: [
+      {
+        claim: "Dyson says Supersonic intelligent heat control helps prevent extreme heat damage and its attachments are engineered for different hair types.",
+        url: "https://www.dyson.com/hair-care/hair-dryers/supersonic",
+        title: "Dyson Supersonic™ hair dryer"
+      },
+      {
+        claim: "BaBylissPRO specifies Nano Titanium heat distribution, 2000 watts, an ion generator, six heat and speed settings, and a cool-shot button for BNT5548.",
+        url: "https://www.babylisspro.com/nano-titanium-dryer/BNT5548.html",
+        title: "BaBylissPRO® Nano Titanium™ Dryer (BNT5548)"
+      }
+    ]
+  },
   // ── Weekly additions 2026-09-14 ──
   {
     id: "olaplex-no3plus-vs-k18-molecular-repair-mask",
