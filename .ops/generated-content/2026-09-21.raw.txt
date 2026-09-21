@@ -1,0 +1,147 @@
+{
+  "products": [
+    {
+      "id": "olaplex-no-8-bond-intense-moisture-mask",
+      "name": "Nº.8 Bond Intense Moisture Mask",
+      "brand": "Olaplex",
+      "asin": "B092DNPHC9",
+      "price": 0,
+      "priceDisplay": "Price varies by retailer",
+      "rating": 0,
+      "reviewCount": 0,
+      "category": "Hair Masks & Treatments",
+      "categorySlug": "hair-masks",
+      "imageUrl": "https://olaplex.com/cdn/shop/products/no-8-bond-intense-moisture-mask.jpg",
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61Olaplex8BondMask._AC_SL1500_.jpg",
+      "hairTypes": ["dry", "color-treated", "damaged", "normal"],
+      "shortDescription": "A weekly rinse-out mask from Olaplex's numbered system designed to add moisture and smoothness to dry, chemically treated hair in about 10 minutes.",
+      "fullReview": "Olaplex's Nº.8 Bond Intense Moisture Mask sits inside the brand's larger Nº.0 through Nº.9 bond-building system, which the company describes as its core at-home and professional hair health platform. It is positioned as the intensive moisture step in that lineup, meant to follow shampooing and, optionally, precede other bond treatments for a deeper at-home routine.\n\nAs a rinse-out treatment, the mask is designed to be worked through clean, damp hair from mid-length to ends and left on for around 10 minutes before rinsing, which keeps the weekly commitment relatively short compared to overnight or multi-step masks. The formula is described as free of sulfates, phthalates, parabens, and gluten, and is positioned as color-safe, which matters for readers who color-treat regularly and want to avoid stripping toners or glosses between salon visits.\n\nWhere this mask earns its place in a dry, color-treated routine is in the trade-off between speed and intensity: it is built to be used in place of a regular conditioner on mask day rather than as an every-wash step, which suits people who want a once-weekly moisture reset without committing to a heavier, longer-sitting treatment. Because it is one part of a larger numbered system, getting the brand's fullest claimed benefit typically means pairing it with other Olaplex steps, which adds cost and routine complexity if a reader wants the complete experience rather than the mask alone.\n\nOverall, this is a reasonable pick for someone who already likes short, rinse-out treatments and wants a moisture-focused mask that won't weigh down finer or normal-porosity hair, but it is not marketed as a deep protein treatment for severely over-processed or brittle ends.",
+      "pros": [
+        "Short 10-minute leave-on time fits easily into a weekly wash-day routine",
+        "Formulated without sulfates, phthalates, parabens, or gluten and positioned as color-safe",
+        "Designed to slot into Olaplex's broader bond-building system for readers who want a coordinated routine",
+        "Lightweight enough for normal-to-fine hair that doesn't need heavy protein treatments"
+      ],
+      "cons": [
+        "Getting the brand's fullest claimed benefit generally requires pairing it with other Olaplex steps sold separately, adding routine cost",
+        "The pump dispenser can require several extra pumps for long or very thick hair, making dosing less precise",
+        "Marketed primarily as a moisture mask rather than a deep protein-repair treatment, so severely brittle or over-processed hair may need a heavier option"
+      ],
+      "bestFor": "Color-treated or chemically processed hair that needs a quick, weekly moisture boost without a long treatment time.",
+      "editorPick": false,
+      "publishDate": "2026-09-21",
+      "slug": "olaplex-no-8-bond-intense-moisture-mask-review",
+      "citations": [
+        {
+          "claim": "The mask is a deeply penetrating, bond-building reparative treatment that delivers moisture to dehydrated or dry hair without weighing it down, and can be used weekly in place of regular conditioner.",
+          "url": "https://www.cosmoprofbeauty.com/USA-020758.html",
+          "title": "No. 8 Bond Repair Moisturizing Mask - Olaplex | CosmoProf"
+        },
+        {
+          "claim": "Usage directions call for applying to clean, damp hair after shampooing, leaving on for 10 minutes, then rinsing thoroughly and styling as usual.",
+          "url": "https://www.cosmoprofbeauty.com/USA-020758.html",
+          "title": "No. 8 Bond Repair Moisturizing Mask - Olaplex | CosmoProf"
+        },
+        {
+          "claim": "The formula is made without sulfates, phthalates, parabens, or gluten, is vegan, and is positioned as color-safe.",
+          "url": "https://www.cosmoprofbeauty.com/USA-020758.html",
+          "title": "No. 8 Bond Repair Moisturizing Mask - Olaplex | CosmoProf"
+        },
+        {
+          "claim": "The Nº.8 Bond Intense Moisture Mask is one of the numbered products in Olaplex's current retail hair health platform, which spans products used both at home and in-salon.",
+          "url": "https://ir.olaplex.com/sec-filings/all-sec-filings/content/0001868726-24-000010/0001868726-24-000010.pdf",
+          "title": "Olaplex Holdings, Inc. SEC Filing"
+        }
+      ]
+    },
+    {
+      "id": "briogeo-dont-despair-repair-deep-conditioning-mask",
+      "name": "Don't Despair, Repair! Deep Conditioning Mask",
+      "brand": "Briogeo",
+      "asin": "B00J4R760C",
+      "price": 0,
+      "priceDisplay": "Price varies by retailer",
+      "rating": 0,
+      "reviewCount": 0,
+      "category": "Hair Masks & Treatments",
+      "categorySlug": "hair-masks",
+      "imageUrl": "https://www.briogeohair.com/cdn/shop/files/dont-despair-repair-deep-conditioning-mask-8oz.jpg",
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61BriogeoDontDespairMask._AC_SL1500_.jpg",
+      "hairTypes": ["dry", "color-treated", "damaged", "frizzy", "coily", "curly", "wavy"],
+      "shortDescription": "A weekly protein-and-moisture deep conditioning mask built with Briogeo's NOVA Complex for dry, damaged, and chemically treated hair, including color-treated strands.",
+      "fullReview": "Briogeo positions Don't Despair, Repair! as an intensive weekly treatment for those with dry, damaged, chemically-treated, or lifeless hair, built around the brand's NOVA Complex blend of B-vitamins, rosehip and argan oils, algae extract, and biotin. The brand states the mask is safe for color-treated, keratin-treated, chemically-treated, and relaxed hair, which directly targets the dry, color-treated use case this category is built around.\n\nThe mask is meant to replace a regular conditioner once a week: after shampooing, it's massaged through hair and left on for roughly ten minutes before rinsing, with an optional deeper-treatment step of covering hair and sitting under a dryer for up to 30 minutes for readers who want more intensive conditioning on especially dry or brittle sections. Briogeo describes the formula as 97 to 98 percent naturally derived and free of sulfates, silicones, phthalates, parabens, DEA, and artificial dyes, and states it is scientifically shown to reduce hair breakage within ten minutes and strengthen hair up to two times after three uses.\n\nBecause the formula balances protein with moisture rather than leaning purely on lightweight conditioning agents, it tends to suit color-treated hair that has some structural damage from bleaching or repeated processing, not just dryness on otherwise healthy strands. Readers with very fine or low-porosity hair should watch for potential heaviness if they use it more often than the brand's suggested weekly-to-biweekly cadence, and should follow up with a lighter conditioner between mask days as the brand itself recommends.",
+      "pros": [
+        "Explicitly stated by the brand to be safe for color-treated, keratin-treated, chemically-treated, and relaxed hair",
+        "97 to 98 percent naturally derived formula free of sulfates, silicones, phthalates, parabens, DEA, and artificial dyes",
+        "Balances protein and moisture rather than moisture alone, which suits hair with both dryness and processing-related damage",
+        "Optional heat-cap step gives readers a way to intensify the treatment on particularly dry sections without buying a second product"
+      ],
+      "cons": [
+        "Protein-forward formula can feel heavy on fine or low-porosity hair if used more often than weekly",
+        "Ten-minute-plus leave-on time (longer with the optional heat-cap step) takes more time than a standard rinse-out conditioner",
+        "Best results depend on rotating with a separate lighter conditioner between mask days, which adds another product to the routine"
+      ],
+      "bestFor": "Weekly deep conditioning for dry, damaged, or over-processed color-treated hair that needs both protein and moisture rather than moisture alone.",
+      "editorPick": true,
+      "editorNote": "Chosen for its explicit color-treated-hair claim and its combined protein-and-moisture approach, which fits a wider range of damage levels than moisture-only masks.",
+      "publishDate": "2026-09-21",
+      "slug": "briogeo-dont-despair-repair-deep-conditioning-mask-review",
+      "citations": [
+        {
+          "claim": "The mask is described as an intensive weekly treatment for those with dry, damaged, chemically-treated, and/or lifeless hair, meant to restore hydration and enhance resilience against future damage.",
+          "url": "https://www.briogeohair.com/products/dont-despair-repair-deep-conditioning-mask-4-oz",
+          "title": "Don't Despair, Repair!™ Deep Conditioning Mask 4 oz"
+        },
+        {
+          "claim": "It is formulated with Briogeo's NOVA Complex, delivering B-vitamins, rosehip and argan oils, algae, and biotin, and is stated to be safe for color treated, keratin treated, chemically-treated, and relaxed hair.",
+          "url": "https://www.briogeohair.com/products/dont-despair-repair-deep-conditioning-mask-4-oz",
+          "title": "Don't Despair, Repair!™ Deep Conditioning Mask 4 oz"
+        },
+        {
+          "claim": "The formula is scientifically proven to reduce hair breakage in 10 minutes and strengthen hair up to 2x after three uses, and is roughly 97 percent naturally derived.",
+          "url": "https://www.briogeohair.com/products/dont-despair-repair-deep-conditioning-mask",
+          "title": "Don't Despair, Repair!™ Deep Conditioning Mask"
+        },
+        {
+          "claim": "Usage directions call for massaging into hair after shampooing, leaving in for five to ten minutes, and optionally covering hair with a plastic cap under a dryer for 30 minutes for a deeper treatment before rinsing.",
+          "url": "https://briogeo-dev.myshopify.com/products/dont-despair-repair-deep-conditioning-mask",
+          "title": "Don't Despair, Repair!™ Deep Conditioning Mask – Briogeo Dev"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "olaplex-no-8-vs-briogeo-dont-despair-repair",
+      "title": "Olaplex Nº.8 vs. Briogeo Don't Despair, Repair!: Best Hair Mask for Dry, Color-Treated Hair",
+      "subtitle": "Two weekly deep conditioning masks, two different approaches to fixing dry, chemically treated strands",
+      "category": "Hair Masks & Treatments",
+      "categorySlug": "hair-masks",
+      "product1Id": "olaplex-no-8-bond-intense-moisture-mask",
+      "product2Id": "briogeo-dont-despair-repair-deep-conditioning-mask",
+      "winnerId": "briogeo-dont-despair-repair-deep-conditioning-mask",
+      "winnerReason": "Briogeo's mask explicitly names color-treated, keratin-treated, and chemically-treated hair as safe use cases and balances protein with moisture, which better addresses the structural damage that often accompanies dry, color-treated hair rather than moisture alone.",
+      "verdict": "Both masks are reasonable weekly treatments, but they solve slightly different problems. Olaplex Nº.8 is a fast, 10-minute moisture step that fits neatly into the brand's larger bond-building system and suits normal-to-fine hair that mainly needs a hydration refresh. Briogeo's Don't Despair, Repair! leans into a protein-and-moisture balance and is explicitly positioned for color-treated, keratin-treated, and chemically-treated hair, making it the stronger single-product choice for readers whose dryness comes with visible damage from coloring or heat styling. Readers with only mild dryness and no real damage may prefer Olaplex's lighter, faster routine; those rebuilding strength after repeated color services will likely see more benefit from Briogeo's approach.",
+      "publishDate": "2026-09-21",
+      "slug": "olaplex-no-8-vs-briogeo-dont-despair-repair",
+      "hairTypes": ["dry", "color-treated", "damaged"],
+      "citations": [
+        {
+          "claim": "Olaplex Nº.8 is designed as a 10-minute rinse-out moisture mask used weekly in place of conditioner, positioned within Olaplex's broader numbered bond-building system.",
+          "url": "https://www.cosmoprofbeauty.com/USA-020758.html",
+          "title": "No. 8 Bond Repair Moisturizing Mask - Olaplex | CosmoProf"
+        },
+        {
+          "claim": "Briogeo's mask is explicitly stated to be safe for color treated, keratin treated, chemically-treated, and relaxed hair and is built on a protein-and-moisture NOVA Complex formula.",
+          "url": "https://www.briogeohair.com/products/dont-despair-repair-deep-conditioning-mask-4-oz",
+          "title": "Don't Despair, Repair!™ Deep Conditioning Mask 4 oz"
+        },
+        {
+          "claim": "Briogeo's mask is scientifically proven to reduce hair breakage in 10 minutes and strengthen hair up to 2x after three uses.",
+          "url": "https://www.briogeohair.com/products/dont-despair-repair-deep-conditioning-mask",
+          "title": "Don't Despair, Repair!™ Deep Conditioning Mask"
+        }
+      ]
+    }
+  ]
+}

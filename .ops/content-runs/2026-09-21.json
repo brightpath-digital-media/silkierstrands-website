@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-21",
+  "site": "silkierstrands",
+  "model": "claude-sonnet-5",
+  "house_style_version": "1.0.0",
+  "usage": {
+    "input_tokens": 2205,
+    "output_tokens": 17405,
+    "cache_creation_input_tokens": 80252,
+    "cache_read_input_tokens": 138813,
+    "server_tool_use": {
+      "web_search_requests": 8
+    }
+  },
+  "computed_cost_usd": 0.607231,
+  "duration_ms": 197858,
+  "gates": {
+    "json-schema": {
+      "status": "passed"
+    },
+    "validate-content-completeness": {
+      "status": "passed",
+      "blocking": false,
+      "output": "Content completeness gate passed: 2 product(s), 1 comparison(s), no undefined, placeholders, empty declared fields, or missing product images."
+    },
+    "validate-distinctness": {
+      "status": "passed",
+      "blocking": true,
+      "output": "Distinctness gate passed: 2 product(s) and 1 comparison(s) are distinct from the published index."
+    },
+    "validate-mvp": {
+      "status": "passed",
+      "blocking": true,
+      "output": "MVP gate passed: canonical product contract and review/comparison commerce templates are intact."
+    },
+    "validate-commerce-template": {
+      "status": "passed",
+      "blocking": true,
+      "output": "Commerce template gate passed: verified CTAs, comparison table, schema parity, and content-integrity rules are present."
+    },
+    "validate-routes": {
+      "status": "passed",
+      "blocking": true,
+      "output": "Routes gate passed: 87 review records and 46 comparison records resolve and appear in the sitemap."
+    },
+    "validate-crawlability": {
+      "status": "passed",
+      "blocking": true,
+      "output": "Crawlability gate passed: robots, canonical sitemap, and rendered public files are present."
+    },
+    "validate-forms": {
+      "status": "passed",
+      "blocking": true,
+      "output": "Forms gate passed: newsletter and user-review inputs retain submit handling and validation guards."
+    },
+    "asin-mapping-verification": {
+      "status": "passed",
+      "blocking": false,
+      "output": "MATCH        | B092DNPHC9 | Nº.8 Bond Intense Moisture Mask | Olaplex Women&#39;s No.8 Bond Intense Moisture Mask\nMATCH        | B00J4R760C | Don't Despair, Repair! Deep Conditioning Mask | Briogeo Don&#39;t Despair, Repair! Deep Conditioning Mask | Protein + Moisture Balance Conditioner for Dry, Damaged, Color-Treated Strands | Vegan &amp; Cruelty-Free\nASIN warn-only gate complete: match=2 dead=0 inconclusive=0; report=/home/runner/work/silkierstrands-website/silkierstrands-website/.ops/shadow-render/asin-mapping-report.json"
+    },
+    "affiliate-disclosure": {
+      "status": "passed",
+      "blocking": true,
+      "output": "Affiliate disclosure gate passed: product-bearing routes render through the site-wide Amazon Associate disclosure."
+    }
+  },
+  "published": false,
+  "notes": "shadow run; cache write observed"
+}
