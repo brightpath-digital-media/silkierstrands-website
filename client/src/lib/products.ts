@@ -2792,6 +2792,107 @@ export function getEditorPicks(): Product[] {
 // COMPARISONS (6 - one per category)
 // ============================================================
 export const comparisons: Comparison[] = [
+  // ── Weekly additions 2026-09-28 ──
+  {
+    "id": "olaplex-no4-vs-kerastase-nutritive-bain-satin",
+    "title": "OLAPLEX N°.4 Bond Maintenance Shampoo vs. Kérastase Nutritive Bain Satin",
+    "subtitle": "Medium-Coarse Bond-Focused Cleansing vs. Fine-to-Medium Dry-Hair Hydration: Which Shampoo Fits Your Routine?",
+    "category": "Shampoo & Conditioner",
+    "categorySlug": "shampoo-conditioner",
+    "product1Id": "olaplex-no4-bond-maintenance-shampoo",
+    "product2Id": "kerastase-bain-satin",
+    "winnerId": "kerastase-bain-satin",
+    "winnerReason": "For fine-to-medium dry hair, Kérastase is the more directly source-matched choice because its official page specifically identifies Bain Satin as a lightweight hydrating shampoo for that texture range and hair need; this is a conditional fit judgment, not hands-on testing.",
+    "verdict": "Choose Kérastase Nutritive Bain Satin when fine-to-medium dry hair is the primary concern and you want the brand's stated lightweight hydration, plant-based proteins, and niacinamide approach. Choose OLAPLEX N°.4 when medium-to-coarse or chemically treated hair is the better match and the stated priority is bond reinforcement alongside gentle cleansing and hydration. The official sources do not establish an independent overall performance winner, so this recommendation is based on target texture and routine rather than a universal result.",
+    "publishDate": "2026-09-28",
+    "slug": "olaplex-no4-bond-maintenance-vs-kerastase-nutritive-bain-satin",
+    "hairTypes": [
+      "dry",
+      "fine",
+      "medium",
+      "thick",
+      "coarse",
+      "color-treated",
+      "curly"
+    ],
+    "citations": [
+      {
+        "claim": "OLAPLEX identifies N°.4 as a concentrated shampoo for medium-to-coarse hair that strengthens and reinforces bonds while gently cleansing, replenishing hydration, and supporting chemically treated hair.",
+        "url": "https://olaplex.com/products/olaplex-n4-bond-maintenance-strengthening-shampoo-250ml",
+        "title": "Nº.4 Bond Maintenance™ Strengthening Shampoo"
+      },
+      {
+        "claim": "Kérastase describes Nutritive Bain Satin as a hydrating shampoo for fine-to-medium dry hair, with plant-based proteins and niacinamide in a lightweight formula.",
+        "url": "https://www.kerastase-usa.com/collections/nutritive/bain-satin-shampoo.html",
+        "title": "Nutritive Bain Satin Shampoo"
+      }
+    ]
+  },
+  {
+    "id": "olaplex-no7-bonding-oil-vs-kerastase-elixir-ultime",
+    "title": "OLAPLEX Nº.7 Bonding Oil vs. Kérastase Elixir Ultime Hair Oil",
+    "subtitle": "Weightless Damp-or-Dry Styling Oil vs. a Multi-Use Shine Finisher: Which Hair Oil Fits Your Styling Plan?",
+    "category": "Serums & Oils",
+    "categorySlug": "serums-oils",
+    "product1Id": "olaplex-no7-bonding-oil",
+    "product2Id": "kerastase-elixir-ultime",
+    "winnerId": "kerastase-elixir-ultime",
+    "winnerReason": "For dry, thick, coarse, or color-treated hair seeking a flexible finishing step, Kérastase is the more directly source-matched choice because its official guidance explicitly covers dry-hair shine finishing, wet-or-dry heat protection, and nourishment for dry or color-treated hair; this is a source-based fit judgment, not hands-on testing.",
+    "verdict": "Choose Kérastase Elixir Ultime when your routine calls for a multi-use finishing oil for dry hair, mid-lengths and ends, or pre-heat styling on dry, damaged, or color-treated hair. Choose OLAPLEX Nº.7 when you prefer a concentrated, weightless styling oil used on damp or dry hair for the brand's stated shine, softness, frizz control, and 450°F heat protection. Both official sources list 450°F heat protection; neither source proves an independent universal winner for shine, frizz control, or damage prevention.",
+    "publishDate": "2026-09-28",
+    "slug": "olaplex-no7-bonding-oil-vs-kerastase-elixir-ultime-hair-oil",
+    "hairTypes": [
+      "dry",
+      "fine",
+      "thick",
+      "coarse",
+      "color-treated"
+    ],
+    "citations": [
+      {
+        "claim": "OLAPLEX describes Nº.7 Bonding Oil as a weightless styling hair oil for instant shine and protection that can be used on damp or dry hair, with stated frizz control and 450°F/232°C heat protection.",
+        "url": "https://olaplex.com/products/olaplex-n-7-bonding-oil-30ml",
+        "title": "OLAPLEX Nº.7 Bonding Oil™ Full Size"
+      },
+      {
+        "claim": "Kérastase describes Elixir Ultime as a lightweight all-hair-types oil with stated 48-hour frizz control, 450°F heat protection, dry-hair finishing use, and nourishment for dry, damaged, and color-treated hair.",
+        "url": "https://www.kerastase-usa.com/collections/elixir-ultime/lhuile-original-hair-oil-refillable-for-hair-shine.html",
+        "title": "Elixir Ultime Refillable Hydrating Hair Oil"
+      }
+    ]
+  },
+  {
+    "id": "dyson-airwrap-complete-vs-beachwaver-s1",
+    "title": "Dyson Airwrap Multi-Styler Complete Long vs. Beachwaver S1",
+    "subtitle": "Damp-Hair Airflow Multi-Styling vs. a Rotating 25 mm Barrel: Which Curling Workflow Fits Your Routine?",
+    "category": "Curling Irons & Wands",
+    "categorySlug": "curling-irons",
+    "product1Id": "dyson-airwrap-complete",
+    "product2Id": "beachwaver-s1-curling-iron",
+    "winnerId": "beachwaver-s1-curling-iron",
+    "winnerReason": "For shoppers who specifically want a dedicated rotating clamp-and-barrel curling workflow, Beachwaver is the more directly source-matched choice because its official S1 guidance specifies button-controlled rotation, a 25 mm barrel, adjustable speed, and a 290–410°F heat range; this is a workflow fit judgment, not hands-on testing.",
+    "verdict": "Choose the Beachwaver S1 when a dedicated rotating 25 mm barrel, button-controlled direction, and adjustable heat are the priorities for defined curls or waves. Choose the Dyson Airwrap Complete Long when you want the Airwrap family's multi-styler workflow: Dyson's official guidance describes attachment sets for different hair types and styles, with barrels that work best on damp hair and an airstream that wraps hair around the barrel. The source material does not establish which creates a longer-lasting curl or delivers less heat damage overall, so the recommendation is based on workflow and tool format rather than a universal performance claim.",
+    "publishDate": "2026-09-28",
+    "slug": "dyson-airwrap-complete-long-vs-beachwaver-s1",
+    "hairTypes": [
+      "fine",
+      "normal",
+      "medium",
+      "color-treated"
+    ],
+    "citations": [
+      {
+        "claim": "Dyson says Airwrap attachments vary for different hair types and styles, that barrels work best on damp hair, and that its airstream wraps hair around the barrel during curling.",
+        "url": "https://www.dyson.com/hair-care/hair-stylers/airwrap",
+        "title": "Dyson Airwrap™ multi-styler and dryer"
+      },
+      {
+        "claim": "Beachwaver identifies the S1 as a button-controlled automatic rotating curling iron with a 25 mm ceramic barrel, adjustable rotation speed, and a 290–410°F heat range.",
+        "url": "https://www.beachwaver.com.au/products/beachwaver-s1-rose-gold",
+        "title": "Beachwaver® S1 Rose Gold"
+      }
+    ]
+  },
   // ── Weekly additions 2026-09-21 ──
   {
     id: "olaplex-no4-vs-pureology-hydrate-shampoo",
