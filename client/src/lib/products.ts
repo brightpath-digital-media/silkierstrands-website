@@ -2792,6 +2792,110 @@ export function getEditorPicks(): Product[] {
 // COMPARISONS (6 - one per category)
 // ============================================================
 export const comparisons: Comparison[] = [
+  // ── Weekly additions 2026-10-05 ──
+  {
+    "id": "amika-soulfood-vs-moroccanoil-intense-hydrating-mask",
+    "title": "Amika Soulfood Nourishing Mask vs. Moroccanoil Intense Hydrating Mask",
+    "subtitle": "All-Hair-Type Deep Conditioning vs. Medium-to-Thick Dry-Hair Moisture: Which Mask Fits Your Routine?",
+    "category": "Hair Masks & Treatments",
+    "categorySlug": "hair-masks",
+    "product1Id": "amika-soulfood-mask",
+    "product2Id": "moroccanoil-intense-hydrating-mask",
+    "winnerId": "amika-soulfood-mask",
+    "winnerReason": "For shoppers who want one rinse-out mask that the brand explicitly positions for all hair types needing deep conditioning, Amika is the broader source-matched choice; this is a fit judgment based on the brands' stated use cases, not hands-on testing.",
+    "verdict": "Choose Amika Soulfood when your priority is a rich but lightweight deep-conditioning mask suitable across hair types, including chemically treated hair, with a weekly or conditioner-style routine. Choose Moroccanoil Intense Hydrating Mask when medium-to-thick dry hair is the specific concern and you want the brand's argan-oil, five-to-seven-minute moisture treatment. The official sources do not establish an independent universal performance winner, so the recommendation follows stated hair-type fit and routine rather than a broad claim of superior results.",
+    "publishDate": "2026-10-05",
+    "slug": "amika-soulfood-nourishing-mask-vs-moroccanoil-intense-hydrating-mask",
+    "hairTypes": [
+      "dry",
+      "fine",
+      "medium",
+      "thick",
+      "coarse",
+      "curly",
+      "color-treated"
+    ],
+    "citations": [
+      {
+        "claim": "Amika describes Soulfood as a vitamin- and nutrient-packed, rich yet lightweight mask for all hair types 1–4c needing deep conditioning, with jojoba seed oil and sea buckthorn; its directions call for five to seven minutes after shampooing.",
+        "url": "https://loveamika.com/products/soulfood-nourishing-mask",
+        "title": "amika soulfood nourishing hair mask"
+      },
+      {
+        "claim": "Moroccanoil describes Intense Hydrating Mask as a deep-conditioning argan-oil treatment for medium-to-thick dry hair, with a five-to-seven-minute use time and stated hydration, smoothing, and manageability benefits.",
+        "url": "https://www.moroccanoil.com/products/intense-hydrating-mask",
+        "title": "Moroccanoil Intense Hydrating Mask"
+      }
+    ]
+  },
+  {
+    "id": "parlux-385-powerlight-vs-dyson-supersonic-hair-dryer",
+    "title": "Parlux 385 PowerLight vs. Dyson Supersonic Hair Dryer",
+    "subtitle": "Professional High-Airflow Controls vs. Intelligent Heat Management: Which Dryer Fits Your Styling Priorities?",
+    "category": "Hair Dryers",
+    "categorySlug": "hair-dryers",
+    "product1Id": "parlux-385-powerlight",
+    "product2Id": "dyson-supersonic",
+    "winnerId": "dyson-supersonic",
+    "winnerReason": "For a home styling routine where heat-managed drying and attachment versatility are the priority, Dyson is the more directly source-matched choice because its official page centers intelligent heat control and attachments for different hair types; this is a source-based fit judgment, not hands-on testing.",
+    "verdict": "Choose Dyson Supersonic when fast drying with the brand's stated intelligent heat control and attachments for different hair types is the main priority, particularly if you want a guided home-styling toolkit. Choose Parlux 385 PowerLight when you want a conventional professional dryer with 2,100W power, 46.46 CFM airflow, two speeds, four temperatures, a cold shot, and concentrator nozzles. The official sources do not prove a universal drying-speed or damage-prevention winner, so the recommendation is based on control system and workflow rather than a blanket performance claim.",
+    "publishDate": "2026-10-05",
+    "slug": "parlux-385-powerlight-vs-dyson-supersonic-hair-dryer",
+    "hairTypes": [
+      "fine",
+      "normal",
+      "thick",
+      "coarse",
+      "curly",
+      "color-treated"
+    ],
+    "citations": [
+      {
+        "claim": "Parlux lists the 385 PowerLight with a 2,100W motor, 15.84 oz weight, 46.46 CFM airflow, two speeds, four temperatures, an instant cold shot, and two concentrator nozzles.",
+        "url": "https://parluxus.com/products/parlux-385-powerlight-ionic-and-ceramic-hair-dryer",
+        "title": "Parlux 385 PowerLight Ionic & Ceramic Dryer"
+      },
+      {
+        "claim": "Dyson says the Supersonic is engineered for fast drying and controlled styling while helping protect hair from extreme heat damage, with intelligent heat control and attachments engineered for different hair types.",
+        "url": "https://www.dyson.com/hair-care/hair-dryers/supersonic",
+        "title": "Dyson Supersonic™ hair dryer"
+      }
+    ]
+  },
+  {
+    "id": "kerastase-elixir-ultime-vs-verb-ghost-oil",
+    "title": "Kérastase Elixir Ultime vs. VERB Ghost Oil",
+    "subtitle": "Multi-Use Camellia Shine Oil vs. Fine-to-Medium Weightless Styling: Which Finishing Oil Fits Your Hair?",
+    "category": "Serums & Oils",
+    "categorySlug": "serums-oils",
+    "product1Id": "kerastase-elixir-ultime",
+    "product2Id": "verb-ghost-oil",
+    "winnerId": "verb-ghost-oil",
+    "winnerReason": "For fine-to-medium hair seeking a light daily finisher, VERB is the more directly source-matched choice because its official page specifically targets that texture range and emphasizes smoothing and shine without weight; this is a source-based fit judgment, not hands-on testing.",
+    "verdict": "Choose VERB Ghost Oil when fine-to-medium hair needs a weightless styling or finishing oil for shine, frizz smoothing, and flyaway control, with the brand's stated 450°F heat protection. Choose Kérastase Elixir Ultime when dry, damaged, thick, coarse, or color-treated lengths need a multi-use oil for shine finishing or wet-or-dry heat styling, and its wild-camellia formula better fits the routine. Both official sources list lightweight texture and 450°F heat protection; neither establishes an independent universal winner for shine or frizz control.",
+    "publishDate": "2026-10-05",
+    "slug": "kerastase-elixir-ultime-vs-verb-ghost-oil",
+    "hairTypes": [
+      "dry",
+      "fine",
+      "medium",
+      "thick",
+      "coarse",
+      "color-treated"
+    ],
+    "citations": [
+      {
+        "claim": "Kérastase describes Elixir Ultime as a lightweight multi-use oil with wild camellia, dry-hair shine-finishing use, heat protection up to 450°F, and nourishment for dry, damaged, and color-treated hair.",
+        "url": "https://www.kerastase-usa.com/collections/elixir-ultime/lhuile-original-hair-oil-refillable-for-hair-shine.html",
+        "title": "Elixir Ultime Refillable Hydrating Hair Oil"
+      },
+      {
+        "claim": "VERB describes Ghost Oil as a lightweight oil for fine-to-medium hair that smooths frizz, tames flyaways, and adds shine without weight, with stated heat protection up to 450°F.",
+        "url": "https://www.verbproducts.com/products/ghost-oil",
+        "title": "Ghost™ Oil"
+      }
+    ]
+  },
   // ── Weekly additions 2026-09-28 ──
   {
     "id": "olaplex-no4-vs-kerastase-nutritive-bain-satin",
