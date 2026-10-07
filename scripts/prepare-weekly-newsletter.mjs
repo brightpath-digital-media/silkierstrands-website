@@ -83,7 +83,7 @@ function localTestMode() {
 
 function fieldFromObject(objectText, fieldName) {
   const expression = new RegExp(
-    "\\b" + fieldName + "\\s*:\\s*([\"'`])([\\s\\S]*?)\\1\\s*,?",
+    "\\b" + fieldName + "[\"']?\\s*:\\s*([\"'`])([\\s\\S]*?)\\1\\s*,?",
     "m",
   );
   const match = objectText.match(expression);
