@@ -2792,6 +2792,107 @@ export function getEditorPicks(): Product[] {
 // COMPARISONS (6 - one per category)
 // ============================================================
 export const comparisons: Comparison[] = [
+  // ── Weekly additions 2026-10-18 ──
+  {
+    "id": "tgin-honey-miracle-vs-briogeo-dont-despair-repair-mask",
+    "title": "tgin Honey Miracle Hair Mask vs. Briogeo Don't Despair, Repair! Deep Conditioning Mask",
+    "subtitle": "Honey-and-Oil Deep Conditioner vs. Weekly Repair Mask: Which Treatment Fits Your Dry, Damaged Hair Routine?",
+    "category": "Hair Masks & Treatments",
+    "categorySlug": "hair-masks",
+    "product1Id": "tgin-honey-miracle-hair-mask",
+    "product2Id": "briogeo-dont-despair-repair-mask",
+    "winnerId": "briogeo-dont-despair-repair-mask",
+    "winnerReason": "For shoppers who want a rinse-out mask with a short, once-a-week routine and a brand positioning that covers dry, damaged, and chemically treated hair, Briogeo is the more directly source-matched choice; this is a fit judgment based on the brands' stated directions, not hands-on testing.",
+    "verdict": "Choose Briogeo Don't Despair, Repair! when you want a weekly repair-focused mask for dry, damaged, or chemically treated hair that is left on for roughly five to ten minutes, with an optional longer heat treatment under a cap. Choose tgin Honey Miracle when you prefer a honey, jojoba, and olive oil deep conditioner and are willing to schedule a longer session, because tgin's directions call for 10 to 15 minutes with heat or 35 to 60 minutes without. Both brands position their masks for dry or damaged hair, and neither official page establishes an independent winner for softness or breakage reduction, so the recommendation follows routine length and stated fit rather than a claim of superior results. Briogeo's own page gives slightly different leave-on times in different places, so follow the directions printed on the jar you buy.",
+    "publishDate": "2026-10-18",
+    "slug": "tgin-honey-miracle-hair-mask-vs-briogeo-dont-despair-repair-mask",
+    "hairTypes": [
+      "dry",
+      "damaged",
+      "curly",
+      "coily",
+      "color-treated"
+    ],
+    "citations": [
+      {
+        "claim": "tgin describes Honey Miracle as a deep conditioner with raw honey plus jojoba and olive oils for dry, damaged, and color-treated hair; directions call for 10-15 minutes under a dryer with a cap or 35-60 minutes without heat, and the page summary describes it as sulfate-free.",
+        "url": "https://tginatural.com/products/honey-miracle-hair-mask",
+        "title": "tgin Honey Miracle Hair Mask"
+      },
+      {
+        "claim": "Briogeo describes Don't Despair, Repair! as an intensive weekly treatment for dry, damaged, chemically treated, and lifeless hair, formulated without sulfates or silicones, to be left on for about five to ten minutes after shampooing, with an optional 30-minute heat treatment under a cap.",
+        "url": "https://www.briogeohair.com/products/dont-despair-repair-deep-conditioning-mask",
+        "title": "Don't Despair, Repair! Deep Conditioning Mask"
+      }
+    ]
+  },
+  {
+    "id": "shark-hyperair-hd113-vs-bio-ionic-powerlight-pro-dryer",
+    "title": "Shark HyperAIR HD113 vs. BIO IONIC Powerlight Pro Hair Dryer",
+    "subtitle": "Heat-Sensing Ionic Dryer vs. Lightweight Manual-Control Pro Dryer: Which Fits Your Blowout Routine?",
+    "category": "Hair Dryers",
+    "categorySlug": "hair-dryers",
+    "product1Id": "shark-hyperair-hd113",
+    "product2Id": "bio-ionic-goldpro-dryer",
+    "winnerId": "bio-ionic-goldpro-dryer",
+    "winnerReason": "For shoppers who want a lighter dryer with manual heat and speed switches, a cool shot, and a higher listed wattage, BIO IONIC is the more directly source-matched choice; this is a specification-based fit judgment, not hands-on testing.",
+    "verdict": "Choose BIO IONIC Powerlight Pro when you prefer a conventional pro-style dryer with a 1875W motor, three heat settings, two speed settings, a cool shot button, a concentrator nozzle, and a listed weight of 18 oz. Choose Shark HyperAIR HD113 when the brand's HyperAIR IQ approach, which combines heated and ionized air with an IQ 2-in-1 concentrator, matters more than manual switches; Shark lists it at 1,680W and 1.76 lbs with a two-year limited warranty. Neither official page proves a faster drying time or lower heat damage than the other, and Shark's no-heat-damage wording is a brand claim, so the recommendation rests on controls, weight, and attachments. Shark's own page sells the Curl-Defining Diffuser separately, so check exactly which attachments come with the listing you buy.",
+    "publishDate": "2026-10-18",
+    "slug": "shark-hyperair-hd113-vs-bio-ionic-powerlight-pro-hair-dryer",
+    "hairTypes": [
+      "fine",
+      "normal",
+      "thick",
+      "coarse",
+      "curly"
+    ],
+    "citations": [
+      {
+        "claim": "SharkNinja lists the HD113 HyperAIR with IQ 2-in-1 Concentrator, describing HyperAIR IQ Technology as combining high-velocity heated air and ionized air for ultra-fast drying with no heat damage; it lists 1,680 watts, 1.76 lbs, a 96.1 inch cord, a two-year limited warranty, and the Curl-Defining Diffuser as a separately sold accessory.",
+        "url": "https://www.sharkninja.com/shark-hyperair/HD113.html",
+        "title": "Shark HyperAir | SharkNinja"
+      },
+      {
+        "claim": "BIO IONIC lists the PowerLight Pro-Dryer with a 1875W motor, 3 heat settings and 2 speed settings, a cool shot, a concentrator nozzle, a 9 ft cord, 18 oz weight without cord, and no far infrared heat.",
+        "url": "https://bioionic.com/products/powerlighttm-pro-dryer",
+        "title": "PowerLight Pro-Dryer | Lightweight, Fast-Drying Hair Dryer"
+      }
+    ]
+  },
+  {
+    "id": "gisou-honey-infused-hair-oil-vs-amika-water-sign-hydrating-hair-oil",
+    "title": "Gisou Honey Infused Hair Oil vs. Amika Water Sign Hydrating Hair Oil",
+    "subtitle": "Honey-Powered Shine and Frizz Oil vs. Silicone-Free Hyaluronic Acid Oil: Which Finishing Oil Fits Your Hair?",
+    "category": "Serums & Oils",
+    "categorySlug": "serums-oils",
+    "product1Id": "gisou-honey-infused-hair-oil",
+    "product2Id": "amika-nourish-and-shine-serum",
+    "winnerId": "amika-nourish-and-shine-serum",
+    "winnerReason": "For dry, textured, or coarse hair that needs added moisture from a silicone-free oil, Amika is the more directly source-matched choice because its official page names that hair range and formula; this is a source-based fit judgment, not hands-on testing.",
+    "verdict": "Choose Amika Water Sign when dry, textured, or coarse hair (the brand cites types 2a to 4c) needs an extra moisture boost from a silicone-free oil blend containing squalane, hyaluronic acid, jojoba, coconut, and castor oils, with the brand's pump guidance scaled to hair thickness. Choose Gisou Honey Infused Hair Oil when you want a honey-based oil for shine, frizz control, and heat protection that can be used before styling, after styling, or overnight; its listed ingredients include silicones such as dimethicone, which may matter if you avoid them. Both brands state heat protection up to 450°F, but neither official page establishes an independent winner for shine or frizz control, so the recommendation follows hair type and formula preference rather than a claim of superior results.",
+    "publishDate": "2026-10-18",
+    "slug": "gisou-honey-infused-hair-oil-vs-amika-water-sign-hydrating-hair-oil",
+    "hairTypes": [
+      "dry",
+      "normal",
+      "thick",
+      "coarse",
+      "curly",
+      "color-treated"
+    ],
+    "citations": [
+      {
+        "claim": "Gisou describes Honey Infused Hair Oil as powered by Mirsalehi Honey and Bee Garden Oils for hydration, shine, frizz control, and heat protection up to 230C/450F, for pre-styling, post-styling, or overnight use; its ingredient list includes dimethicone, dimethiconol, and trisiloxane.",
+        "url": "https://www.gisou.com/products/honey-infused-hair-oil",
+        "title": "Honey Infused Hair Oil | Gisou"
+      },
+      {
+        "claim": "amika describes Water Sign as a hydrating oil for dry, textured, or coarse hair types 2a-4c with an 8-oil blend including squalane, hyaluronic acid, jojoba, coconut, and castor oils, a silicone-free formula, and heat protection up to 450F.",
+        "url": "https://loveamika.com/products/water-sign-hydrating-hair-oil",
+        "title": "Water Sign Hydrating Hair Oil | amika"
+      }
+    ]
+  },
   // ── Weekly additions 2026-10-05 ──
   {
     "id": "amika-soulfood-vs-moroccanoil-intense-hydrating-mask",
