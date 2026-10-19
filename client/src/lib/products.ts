@@ -2792,6 +2792,109 @@ export function getEditorPicks(): Product[] {
 // COMPARISONS (6 - one per category)
 // ============================================================
 export const comparisons: Comparison[] = [
+  // ── Weekly additions 2026-10-19 ──
+  {
+    "id": "moroccanoil-intense-hydrating-vs-tgin-honey-miracle-hair-mask",
+    "title": "Moroccanoil Intense Hydrating Mask vs. tgin Honey Miracle Hair Mask",
+    "subtitle": "Five-Minute Argan Oil Mask vs. Honey-and-Oil Deep Conditioner: Which Hydrating Mask Fits Your Dry Hair and Your Schedule?",
+    "category": "Hair Masks & Treatments",
+    "categorySlug": "hair-masks",
+    "product1Id": "moroccanoil-intense-hydrating-mask",
+    "product2Id": "tgin-honey-miracle-hair-mask",
+    "winnerId": "moroccanoil-intense-hydrating-mask",
+    "winnerReason": "For shoppers with medium to thick dry hair who want a short, no-heat routine, Moroccanoil is the more directly source-matched choice because its brand directions call for 5 to 7 minutes with no heat required; this is a fit judgment based on the brands' stated directions, not hands-on testing.",
+    "verdict": "Choose Moroccanoil Intense Hydrating Mask when you have medium to thick dry hair and want a quick routine: the brand says to comb it through towel-dried hair, leave it on for 5 to 7 minutes, rinse, and use it one to two times a week with no heat required. Choose tgin Honey Miracle when you want a honey, jojoba, and olive oil deep conditioner for dry, damaged, or color-treated hair and are willing to set aside more time, because tgin's directions call for 10 to 15 minutes under a dryer with a cap or 35 to 60 minutes without heat. Both ingredient lists include dimethicone and fragrance, so neither is a silicone-free or fragrance-free option. Moroccanoil's smoothness and hydration figures are brand-reported from a lab study it cites, so neither source establishes an independent winner for softness or frizz control; the recommendation follows hair type and routine length rather than a claim of superior results.",
+    "publishDate": "2026-10-19",
+    "slug": "moroccanoil-intense-hydrating-mask-vs-tgin-honey-miracle-hair-mask",
+    "hairTypes": [
+      "dry",
+      "thick",
+      "coarse",
+      "curly",
+      "coily",
+      "color-treated"
+    ],
+    "citations": [
+      {
+        "claim": "Moroccanoil describes Intense Hydrating Mask as a deep conditioning mask for medium to thick dry hair with argan oil; directions say to apply to towel-dried hair, leave on for 5-7 minutes, rinse, and use 1-2 times weekly with no heat required; the brand's 'up to 6.5x more hydrated' and 'up to 85% smoother' figures come from an independent lab study it cites; the ingredient list includes dimethicone and fragrance.",
+        "url": "https://www.moroccanoil.com/products/intense-hydrating-mask",
+        "title": "Intense Hydrating Mask | Moroccanoil"
+      },
+      {
+        "claim": "tgin describes Honey Miracle Hair Mask as a deep conditioner for dry, damaged, and color-treated hair with raw honey plus jojoba and olive oils; directions call for 10-15 minutes under a dryer with a plastic cap or 35-60 minutes without heat; the ingredient list includes dimethicone and fragrance.",
+        "url": "https://tginatural.com/products/honey-miracle-hair-mask",
+        "title": "Honey Miracle Hair Mask | tgin"
+      }
+    ]
+  },
+  {
+    "id": "verb-ghost-oil-vs-gisou-honey-infused-hair-oil",
+    "title": "VERB Ghost Oil vs. Gisou Honey Infused Hair Oil",
+    "subtitle": "Weightless Moringa Oil for Fine Hair vs. Honey-Based Hydrating Oil: Which Finishing Oil Fits Your Hair?",
+    "category": "Serums & Oils",
+    "categorySlug": "serums-oils",
+    "product1Id": "verb-ghost-oil",
+    "product2Id": "gisou-honey-infused-hair-oil",
+    "winnerId": "verb-ghost-oil",
+    "winnerReason": "For fine to medium hair that needs smoothing and shine without a heavy feel, VERB is the more directly source-matched choice because its own page names that hair range and a weightless formula; this is a source-based fit judgment, not hands-on testing.",
+    "verdict": "Choose VERB Ghost Oil when your hair is fine to medium and you want a weightless oil to smooth frizz, tame flyaways, and add shine; the brand directs 2 to 3 pumps on mid-lengths and ends of damp or dry hair and states heat protection up to 450°F. Choose Gisou Honey Infused Hair Oil when you want a honey-based oil for hydration, shine, and frizz control that can be used before styling, after styling, or overnight, with a drop count scaled to thickness: 1 to 2 drops for fine hair, 2 to 3 for medium, and 3 or more for thick hair. Both ingredient lists lead with silicones (dimethicone and dimethiconol appear in each), and Gisou also lists sweet almond and coconut oils, which may matter if you avoid nut-derived ingredients. Both brands state 450°F heat protection, and their shine, frizz, and hydration figures are brand-reported, so neither page establishes an independent winner; the recommendation follows hair type and formula preference rather than a claim of superior results.",
+    "publishDate": "2026-10-19",
+    "slug": "verb-ghost-oil-vs-gisou-honey-infused-hair-oil",
+    "hairTypes": [
+      "fine",
+      "normal",
+      "dry",
+      "thick",
+      "curly",
+      "color-treated"
+    ],
+    "citations": [
+      {
+        "claim": "VERB describes Ghost Oil as a lightweight hair oil that smooths frizz, tames flyaways, and adds shine without weighing hair down, for fine to medium hair; directions say to apply 2-3 pumps to mid-lengths and ends of damp or dry hair; the brand states heat protection up to 450°F/232°C and the ingredient list opens with cyclopentasiloxane, dimethiconol, and dimethicone.",
+        "url": "https://www.verbproducts.com/products/ghost-oil",
+        "title": "Ghost Oil | VERB"
+      },
+      {
+        "claim": "Gisou describes Honey Infused Hair Oil as powered by Mirsalehi Honey and Bee Garden Oils for hydration, shine, and frizz control, with heat protection up to 230°C/450°F, for pre-styling, post-styling, or overnight use; it recommends 1-2 drops for fine hair, 2-3 for medium, and 3+ for thick; the ingredient list begins with dimethicone, dimethiconol, and trisiloxane and includes sweet almond and coconut oils.",
+        "url": "https://www.gisou.com/products/honey-infused-hair-oil",
+        "title": "Honey Infused Hair Oil | Gisou"
+      }
+    ]
+  },
+  {
+    "id": "tymo-curlpro-plus-vs-chi-spin-n-curl-rotating-curling-iron",
+    "title": "TYMO CurlPro Plus vs. CHI Spin N Curl 1\" Ceramic Rotating Curling Iron",
+    "subtitle": "Extended-Barrel Automatic Curler vs. Preset-Driven Ceramic Rotating Curler: Which Hands-Free Curling Iron Fits Your Hair?",
+    "category": "Curling Irons & Wands",
+    "categorySlug": "curling-irons",
+    "product1Id": "tymo-curlpro-plus",
+    "product2Id": "chi-spin-n-curl-rose-gold",
+    "winnerId": "tymo-curlpro-plus",
+    "winnerReason": "For long to medium hair, or fine or damaged hair that needs a lower heat option, TYMO is the more directly source-matched choice because its page lists a 110mm heating film and a 320°F setting for bleached, damaged, or fine hair; this is a specification-based fit judgment, not hands-on testing.",
+    "verdict": "Choose TYMO CurlPro Plus when you have long or medium-length hair, or fine, bleached, or damaged hair: TYMO lists a 110mm heating film for long and medium hair and three settings of 410°F, 365°F, and 320°F, with 320°F aimed at bleached, damaged, or fine hair, plus dual voltage and a 1-year warranty. Choose CHI Spin N Curl when you prefer preset temperatures matched to hair type (370°F fine, 390°F medium, 410°F coarse), CHI's listed 15, 17, or 19 second heat-up times, a 2-year limited warranty, and an included cleaning tool with an auto-clean function. Both are 1-inch automatic rotating curlers that draw a section of hair of up to about an inch into the chamber and signal with a beep, so neither removes the need to section hair. TYMO's own page shows an 8-second timer graphic in one place and 'about 4 seconds' in its how-to steps, so follow the manual that ships with the tool. Neither source establishes an independent winner for curl hold, so the recommendation follows hair length, temperature range, and warranty rather than a claim of superior results.",
+    "publishDate": "2026-10-19",
+    "slug": "tymo-curlpro-plus-vs-chi-spin-n-curl-rotating-curling-iron",
+    "hairTypes": [
+      "fine",
+      "normal",
+      "thick",
+      "coarse",
+      "damaged",
+      "color-treated"
+    ],
+    "citations": [
+      {
+        "claim": "TYMO lists CurlPro Plus as a wired automatic curler with a 1-inch size and a 110mm heating film for long and medium hair, three settings (410°F/210°C for thick and coarse hair, 365°F/185°C for slightly fine to normal hair, 320°F/160°C for bleached, damaged, or fine hair), 600 million negative ions, anti-tangle technology, dual voltage (100-240V), a 360° swivel cord, 10-minute auto-off, and a 1-year warranty; its page shows an 8S smart timer graphic and also says to wait for the beep (about 4 seconds).",
+        "url": "https://tymobeauty.com/products/tymo-curlpro-plus",
+        "title": "TYMO CURLPRO PLUS | TYMO"
+      },
+      {
+        "claim": "CHI lists the 1 Inch Spin N Curl in Rose Gold (SKU CA2348) with a 1-inch ceramic rotating barrel, 410°F maximum temperature, presets of 370°F (fine), 390°F (medium) and 410°F (coarse), heat-up times of 15, 17, or 19 seconds, directional buttons, tangle protection, temperature display, beep alert, auto temperature lock, 1-hour auto shut off, a 9 ft swivel cord, dual voltage, a cleaning tool, an auto-cleaning function, and a 2-year limited warranty; directions say to lay a section of up to 1 inch into the curl chamber.",
+        "url": "https://chi.com/categories/tools/curling-irons-wands/1-inch-spin-n-curl---rose-gold/CA2348.html",
+        "title": "CHI 1 Inch Spin N Curl - Rose Gold | CHI"
+      }
+    ]
+  },
   // ── Weekly additions 2026-10-18 ──
   {
     "id": "tgin-honey-miracle-vs-briogeo-dont-despair-repair-mask",
