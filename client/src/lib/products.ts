@@ -1274,14 +1274,14 @@ At $54.40 for a one-month supply, the cost is the main consideration; VEGAMOUR's
       imageUrl: "https://m.media-amazon.com/images/I/41zwnK7vXVL._SL500_.jpg",
       amazonImageUrl: "https://m.media-amazon.com/images/I/41zwnK7vXVL._SL500_.jpg",
       hairTypes: ["all","thick","fine"],
-      shortDescription: "Professional 2400W dryer with ionic technology and optimum temperature for healthy-looking hair.",
-      fullReview: `The ghd Helios is the hair dryer equivalent of the brand's legendary Platinum+ flat iron — a professional tool that prioritizes hair health alongside performance. The 2400W AC motor is among the most powerful in its class, yet the ionic technology ensures hair is dried gently and evenly.
+      shortDescription: "Professional 1875W brushless-motor dryer with Aeroprecis technology, 75mph airflow and ionic frizz control.",
+      fullReview: `The ghd Helios is the hair dryer equivalent of the brand's legendary Platinum+ flat iron — a professional tool that prioritizes hair health alongside performance. Its 1875W brushless motor delivers 75mph airflow with ghd's patented Aeroprecis technology, while ionic technology helps reduce frizz and flyaways.
   
-  We tested this on thick, long hair and found it one of the fastest and smoothest dryers we've reviewed. The optimum temperature technology maintains the ideal drying temperature throughout the session, preventing heat damage while delivering salon-quality results. The ergonomic design is comfortable for extended use.
+  We tested this on thick, long hair and found it one of the fastest and smoothest dryers we've reviewed. The variable temperature and power settings and the cool shot button give flexible styling control and hold, and the balanced, lightweight design is comfortable for extended use. Note that it is not dual voltage.
   
   At $279, it's the most expensive dryer we've reviewed, but for those who blow-dry daily and prioritize hair health, the investment is justified. The ghd Helios is the professional's choice.`,
-      pros: ["2400W motor — fastest drying in class","Optimum temperature technology","Excellent for thick, long hair","Professional ergonomic design"],
-      cons: ["Most expensive dryer reviewed","No cool shot button","Heavy for extended use"],
+      pros: ["1875W brushless motor with 75mph airflow","Aeroprecis technology and ionic frizz control","Excellent for thick, long hair","Professional ergonomic design"],
+      cons: ["Most expensive dryer reviewed","Not dual voltage"],
       bestFor: "Thick, long hair; daily blow-dry users; those prioritizing hair health",
       editorPick: false,
       publishDate: "2026-05-11",
@@ -1596,7 +1596,7 @@ At $25, it's exceptional value. The build quality is adequate rather than premiu
   },
   {
     id: "beachwaver-s1-curling-iron",
-    name: "Beachwaver S1 Rotating Curling Iron",
+    name: "Beachwaver S1.25 Rotating Curling Iron",
     brand: "Beachwaver",
     asin: "B0B3L5PY79",
     price: 149.00,
@@ -1607,16 +1607,16 @@ At $25, it's exceptional value. The build quality is adequate rather than premiu
     categorySlug: "curling-irons",
     imageUrl: "https://m.media-amazon.com/images/I/21ntSUGEvkL._SL500_.jpg",
     amazonImageUrl: "https://m.media-amazon.com/images/I/21ntSUGEvkL._SL500_.jpg",
-    hairTypes: ["normal","fine","medium"],
-    shortDescription: "Self-rotating curling iron that creates effortless beach waves with the press of a button.",
-    fullReview: `The Beachwaver S1 is one of the most innovative curling tools available — a self-rotating barrel that wraps hair automatically with the press of a button, eliminating the technique barrier that makes traditional curling irons challenging for beginners.
+    hairTypes: ["normal","medium"],
+    shortDescription: "Self-rotating 1.25-inch ceramic-barrel curling iron for loose, relaxed curls and waves on medium-to-long hair.",
+    fullReview: `The Beachwaver S1.25 is one of the most innovative curling tools available — a self-rotating barrel that wraps hair automatically with the press of a button, eliminating the technique barrier that makes traditional curling irons challenging for beginners.
 
-We tested this on medium-length, fine hair and found it genuinely easier to use than any other curling tool we've reviewed. The automatic rotation creates consistent, beautiful beach waves with minimal effort. The tourmaline ceramic barrel generates negative ions for frizz-free results, and the multiple heat settings (280°F–410°F) accommodate different hair types.
+The S1.25 is the larger-barrel model: its 1.25-inch ceramic barrel is meant for medium-to-long hair and loose, relaxed curls or roller-set waves, with even heat distribution for reduced frizz and added shine. Left and right arrow controls set the rotation direction, and adjustable speed and temperature settings (290°F–410°F) let you tailor the heat to your hair type. It is dual voltage (100–240V) and shuts off automatically after 30 minutes.
 
 At $149, it's a premium purchase for a curling iron, but the ease of use and consistent results make it worth the investment for those who struggle with traditional curling techniques.`,
-    pros: ["Self-rotating barrel eliminates technique barrier","Consistent, beautiful beach waves","Tourmaline ceramic for frizz-free results","Beginner-friendly"],
+    pros: ["Self-rotating barrel eliminates technique barrier","Large 1.25-inch barrel for loose, relaxed curls","Ceramic barrel with even heat distribution","Dual voltage with 30-minute auto shut-off"],
     cons: ["Expensive for a curling iron","Rotating mechanism can tangle very long hair","Learning curve for the rotation direction"],
-    bestFor: "Beginners; fine to medium hair; those wanting effortless beach waves",
+    bestFor: "Beginners; medium-to-long hair; those wanting loose, effortless waves",
     editorPick: false,
     publishDate: "2026-05-11",
     slug: "beachwaver-s1-rotating-curling-iron-review",
@@ -1707,7 +1707,7 @@ At $30 for 8.5 oz, it's excellent value for the results delivered. This is our t
   },
   {
     id: "ouai-hair-mask",
-    name: "OUAI Hair Mask",
+    name: "OUAI Thick Hair Mask",
     brand: "OUAI",
     asin: "B08WGJQTN1",
     price: 38.00,
@@ -1718,16 +1718,16 @@ At $30 for 8.5 oz, it's excellent value for the results delivered. This is our t
     categorySlug: "hair-masks",
     imageUrl: "https://m.media-amazon.com/images/I/31rX8qF3mzL._SL500_.jpg",
     amazonImageUrl: "https://m.media-amazon.com/images/I/31rX8qF3mzL._SL500_.jpg",
-    hairTypes: ["normal","dry","fine"],
-    shortDescription: "Celeb-approved mask with shea butter, avocado oil, and marshmallow root for silky, frizz-free hair.",
-    fullReview: `OUAI Hair Mask has earned its celebrity following through genuine performance rather than clever marketing. The formula combines shea butter, avocado oil, and marshmallow root to deliver deep moisture while maintaining a lightweight feel that works on fine to medium hair.
+    hairTypes: ["normal","dry","thick"],
+    shortDescription: "Rich, buttery deep-conditioning mask made for thick hair, with hydrolyzed keratin, almond, macadamia and olive oils, and shea and illipe butters.",
+    fullReview: `OUAI Thick Hair Mask is the rich, buttery member of OUAI's mask lineup — made for thick hair rather than every hair type. The formula pairs hydrolyzed keratin with almond, macadamia, and olive oils plus shea and illipe butters to restore deep moisture, fight frizz, smooth split ends, and help prevent future breakage.
 
-We tested this on medium-thickness hair prone to frizz and found it excellent at taming flyaways and adding a beautiful, natural-looking shine. The mask has a light, clean scent that's pleasant without being overwhelming. The texture is creamy but not heavy, and it rinses out completely without leaving residue.
+After shampooing, comb it through damp mid-lengths to ends, leave it on for a few minutes, and rinse with cool water to seal in shine. It is safe for color-treated, keratin-treated, and chemically treated hair, is made without sulfates (SLS/SLES), parabens, and phthalates, and is cruelty-free and gluten-free. The scent is Melrose Place, a velvety-rich rosy blend with notes of rose, lychee, berry, and pink peppercorn.
 
-At $38 for 8 oz, it's a premium purchase but competitive with other luxury masks. The formula's versatility — effective on multiple hair types without being too heavy — makes it one of the most accessible luxury masks we've tested.`,
-    pros: ["Works on multiple hair types","Lightweight formula won't weigh down hair","Beautiful natural shine","Light, clean scent"],
-    cons: ["Premium price","Not as intensive as Olaplex for damaged hair","Results are more subtle than heavy masks"],
-    bestFor: "Normal to dry hair; multiple hair types; those wanting natural-looking results",
+At $38 for 8 oz, it's a premium purchase but competitive with other luxury masks. Because the formula is built for thick, dry, or damaged hair, shoppers with fine hair should look at a lighter mask instead.`,
+    pros: ["Made for thick hair with a rich, buttery formula","Hydrolyzed keratin with almond, macadamia and olive oils plus shea and illipe butters","Safe for color-treated and keratin-treated hair","Free of sulfates, parabens and phthalates"],
+    cons: ["Premium price","Not as intensive as Olaplex for damaged hair","Made for thick hair, so not aimed at fine hair"],
+    bestFor: "Thick, dry or damaged hair needing deep moisture; color-treated hair",
     editorPick: false,
     publishDate: "2026-05-11",
     slug: "ouai-hair-mask-review",
@@ -3171,15 +3171,15 @@ export const comparisons: Comparison[] = [
   },
   {
     "id": "dyson-airwrap-complete-vs-beachwaver-s1",
-    "title": "Dyson Airwrap Multi-Styler Complete Long vs. Beachwaver S1",
-    "subtitle": "Damp-Hair Airflow Multi-Styling vs. a Rotating 25 mm Barrel: Which Curling Workflow Fits Your Routine?",
+    "title": "Dyson Airwrap Multi-Styler Complete Long vs. Beachwaver S1.25",
+    "subtitle": "Damp-Hair Airflow Multi-Styling vs. a Rotating 1.25-Inch Barrel: Which Curling Workflow Fits Your Routine?",
     "category": "Curling Irons & Wands",
     "categorySlug": "curling-irons",
     "product1Id": "dyson-airwrap-complete",
     "product2Id": "beachwaver-s1-curling-iron",
     "winnerId": "beachwaver-s1-curling-iron",
-    "winnerReason": "For shoppers who specifically want a dedicated rotating clamp-and-barrel curling workflow, Beachwaver is the more directly source-matched choice because its official S1 guidance specifies button-controlled rotation, a 25 mm barrel, adjustable speed, and a 290–410°F heat range; this is a workflow fit judgment, not hands-on testing.",
-    "verdict": "Choose the Beachwaver S1 when a dedicated rotating 25 mm barrel, button-controlled direction, and adjustable heat are the priorities for defined curls or waves. Choose the Dyson Airwrap Complete Long when you want the Airwrap family's multi-styler workflow: Dyson's official guidance describes attachment sets for different hair types and styles, with barrels that work best on damp hair and an airstream that wraps hair around the barrel. The source material does not establish which creates a longer-lasting curl or delivers less heat damage overall, so the recommendation is based on workflow and tool format rather than a universal performance claim.",
+    "winnerReason": "For shoppers who specifically want a dedicated rotating clamp-and-barrel curling workflow, Beachwaver is the more directly workflow-matched choice because the S1.25 is a dedicated rotating curling iron with a 1.25-inch ceramic barrel, button-controlled rotation, adjustable speed, and a 290–410°F heat range as described on its Amazon listing; this is a workflow fit judgment, not hands-on testing.",
+    "verdict": "Choose the Beachwaver S1.25 when a dedicated rotating 1.25-inch barrel, button-controlled direction, and adjustable heat are the priorities for defined curls or waves. Choose the Dyson Airwrap Complete Long when you want the Airwrap family's multi-styler workflow: Dyson's official guidance describes attachment sets for different hair types and styles, with barrels that work best on damp hair and an airstream that wraps hair around the barrel. The source material does not establish which creates a longer-lasting curl or delivers less heat damage overall, so the recommendation is based on workflow and tool format rather than a universal performance claim.",
     "publishDate": "2026-09-28",
     "slug": "dyson-airwrap-complete-long-vs-beachwaver-s1",
     "hairTypes": [
@@ -3193,11 +3193,6 @@ export const comparisons: Comparison[] = [
         "claim": "Dyson says Airwrap attachments vary for different hair types and styles, that barrels work best on damp hair, and that its airstream wraps hair around the barrel during curling.",
         "url": "https://www.dyson.com/hair-care/hair-stylers/airwrap",
         "title": "Dyson Airwrap™ multi-styler and dryer"
-      },
-      {
-        "claim": "Beachwaver identifies the S1 as a button-controlled automatic rotating curling iron with a 25 mm ceramic barrel, adjustable rotation speed, and a 290–410°F heat range.",
-        "url": "https://www.beachwaver.com.au/products/beachwaver-s1-rose-gold",
-        "title": "Beachwaver® S1 Rose Gold"
       }
     ]
   },
@@ -3650,7 +3645,7 @@ export const comparisons: Comparison[] = [
   },
   {
     id: "beachwaver-vs-remington-spiral",
-    title: "Beachwaver S1 vs. Remington Pro Spiral Wand",
+    title: "Beachwaver S1.25 vs. Remington Pro Spiral Wand",
     subtitle: "Self-Rotating Innovation vs. Budget Value: Curling Tool Comparison",
     category: "Curling Irons & Wands",
     categorySlug: "curling-irons",
@@ -3658,7 +3653,7 @@ export const comparisons: Comparison[] = [
     product2Id: "remington-pro-spiral-curler",
     winnerId: "beachwaver-s1-curling-iron",
     winnerReason: "Beachwaver wins for ease of use and versatility — the self-rotating mechanism creates beautiful waves that are difficult to achieve with traditional wands. Remington wins for tight, defined curls at a fraction of the price.",
-    verdict: "Beachwaver S1 is the winner for most users — the self-rotating mechanism eliminates the technique barrier and creates beautiful, consistent waves. Remington Pro Spiral is the better choice for those who specifically want tight, defined curls and are comfortable with traditional wand technique.",
+    verdict: "Beachwaver S1.25 is the winner for most users — the self-rotating mechanism eliminates the technique barrier and creates beautiful, consistent waves. Remington Pro Spiral is the better choice for those who specifically want tight, defined curls and are comfortable with traditional wand technique.",
     publishDate: "2026-05-11",
     slug: "beachwaver-s1-vs-remington-pro-spiral",
   },
@@ -3685,8 +3680,8 @@ export const comparisons: Comparison[] = [
     product1Id: "t3-featherweight-luxe",
     product2Id: "ghd-helios-hair-dryer",
     winnerId: "ghd-helios-hair-dryer",
-    winnerReason: "ghd Helios wins for its superior 2400W power and optimum temperature technology. T3 Featherweight 3i wins for comfort and ease of use during extended styling sessions.",
-    verdict: "ghd Helios is the better dryer in absolute terms — more powerful, faster, and with better heat control technology. T3 Featherweight 3i is the better choice for those who prioritize comfort during extended use or have fine hair that doesn't need maximum power.",
+    winnerReason: "ghd Helios wins for its 1875W brushless motor with 75mph Aeroprecis airflow and its variable temperature and power settings with a cool shot button. T3 Featherweight 3i wins for comfort and ease of use during extended styling sessions.",
+    verdict: "ghd Helios is the better dryer overall — a professional brushless-motor dryer with 75mph airflow and variable temperature and power settings. T3 Featherweight 3i is the better choice for those who prioritize comfort during extended use or have fine hair that doesn't need maximum airflow.",
     publishDate: "2026-05-11",
     slug: "t3-featherweight-vs-ghd-helios",
   },
@@ -3706,15 +3701,15 @@ export const comparisons: Comparison[] = [
   },
   {
     id: "ouai-vs-amika-soulfood-mask",
-    title: "OUAI Hair Mask vs. Amika Soulfood Nourishing Mask",
+    title: "OUAI Thick Hair Mask vs. Amika Soulfood Nourishing Mask",
     subtitle: "Celebrity Mask vs. Cult Favorite: Which Delivers Better Results?",
     category: "Hair Masks & Treatments",
     categorySlug: "hair-masks",
     product1Id: "ouai-hair-mask",
     product2Id: "amika-soulfood-mask",
     winnerId: "amika-soulfood-mask",
-    winnerReason: "Amika Soulfood wins for its sea buckthorn oil complex that delivers more intensive moisture, particularly for curly and coarse hair. OUAI wins for fine hair types that need a lighter touch.",
-    verdict: "Amika Soulfood is the winner for most hair types — the sea buckthorn oil delivers more intensive moisture and better results for dry, curly, or coarse hair. OUAI is the better choice for fine hair that needs moisture without weight.",
+    winnerReason: "Amika Soulfood wins for its sea buckthorn oil complex that delivers more intensive moisture, particularly for curly and coarse hair. OUAI Thick Hair Mask is the alternative for thick, dry or damaged hair that wants a keratin-and-butters formula.",
+    verdict: "Amika Soulfood is the winner for most hair types — the sea buckthorn oil delivers more intensive moisture and better results for dry, curly, or coarse hair. OUAI Thick Hair Mask is a strong alternative for thick, dry or damaged hair that wants a rich keratin, oil, and butter formula — it is made for thick hair, so fine hair should look elsewhere.",
     publishDate: "2026-05-11",
     slug: "ouai-vs-amika-soulfood-mask",
   },
