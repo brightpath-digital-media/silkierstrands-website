@@ -122,3 +122,4 @@ client/public/__manus__/version.json
 
 # Generated, validated route data for sitemap and prerender steps
 scripts/site-data.json
+.claude/settings.local.json
