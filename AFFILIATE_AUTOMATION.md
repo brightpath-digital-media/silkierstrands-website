@@ -2,7 +2,7 @@
 
 Affiliate product integrity for SilkierStrands is governed by the single canonical **Weekly Affiliate Link Health-Check** in the Trail Built Overland repository.
 
-The job runs every Monday at 15:00 Pacific Time, covers SilkierStrands alongside Trail Built Overland and PauseAndFlourish, and emails its report to `kamilano1@gmail.com`.
+The job runs every Monday at 15:00 Pacific Time, covers SilkierStrands alongside Trail Built Overland and PauseAndFlourish, and emails its report to the owner (address kept out of the repo).
 
 It validates the full mapping chain for every product:
 
@@ -25,4 +25,4 @@ python3 /home/ubuntu/trail-built-overland/tools/deploy_confirmation_remediation.
   --mode post-push --site silkierstrands --expected-sha <pushed-commit-sha> --auto-remediate
 ```
 
-The engine generates the concise deployment-confirmation email draft for `kamilano1@gmail.com`, verifies this site’s `version.txt` marker, and applies only the approved strict remediation actions. The canonical weekly health-check calls the same engine for reconciliation. Do not create a site-specific deploy-confirmation schedule, duplicate engine, secret, or threshold exception.
+The engine generates the concise deployment-confirmation email draft for the owner (address kept out of the repo), verifies this site’s `version.txt` marker, and applies only the approved strict remediation actions. The canonical weekly health-check calls the same engine for reconciliation. Do not create a site-specific deploy-confirmation schedule, duplicate engine, secret, or threshold exception.
