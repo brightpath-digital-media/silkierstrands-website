@@ -11,6 +11,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import Anthropic from "@anthropic-ai/sdk";
+import { stripJsonFence } from "./strip-json-fence.mjs";
 import { CONTENT_BATCH_SCHEMA, validateContentBatch } from "./content-record-schema.mjs";
 
 const execFile = promisify(execFileCallback);
@@ -369,7 +370,7 @@ async function main() {
     mkdirSync(dirname(RAW_OUTPUT_PATH), { recursive: true });
     writeFileSync(RAW_OUTPUT_PATH, `${rawOutput}\n`, "utf8");
     let batch;
-    try { batch = JSON.parse(rawOutput); } catch (error) { fail(`Schema gate: Claude output is not valid JSON: ${error.message}`); }
+    try { batch = JSON.parse(stripJsonFence(rawOutput)); } catch (error) { fail(`Schema gate: Claude output is not valid JSON: ${error.message}`); }
     // An untagged marketplace URL compiled into the bundle fails the rendered-anchor gate
     // (run 35168694541: an Amazon listing was cited as a source). Citations are references,
     // never affiliate destinations, so marketplace hosts are dropped here regardless of the prompt.
