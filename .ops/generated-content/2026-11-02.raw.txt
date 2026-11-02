@@ -1,0 +1,134 @@
+```json
+{
+  "products": [
+    {
+      "id": "olaplex-no8-bond-intense-moisture-mask",
+      "name": "No.8 Bond Intense Moisture Mask",
+      "brand": "Olaplex",
+      "asin": "B092DNPHC9",
+      "price": 0,
+      "priceDisplay": "Price varies by retailer",
+      "rating": 0,
+      "reviewCount": 0,
+      "category": "Hair Masks & Treatments",
+      "categorySlug": "hair-masks",
+      "imageUrl": "https://ensleybeautysupply.com/cdn/shop/files/th_20_ffbe0ed1-66e0-4156-98e2-cc16753bcbc5.jpg?v=1719516447",
+      "amazonImageUrl": "https://ensleybeautysupply.com/cdn/shop/files/th_20_ffbe0ed1-66e0-4156-98e2-cc16753bcbc5.jpg?v=1719516447",
+      "hairTypes": ["dry", "color-treated", "damaged", "coarse"],
+      "shortDescription": "A concentrated at-home mask that pairs Olaplex's patented bond-building molecule with ceramides and plant oils for dry, color-treated hair.",
+      "fullReview": "Olaplex built its reputation on in-salon bond-repair chemistry, and the No.8 Bond Intense Moisture Mask brings a lighter dose of that same patented molecule into a weekly at-home treatment aimed squarely at dryness rather than chemical damage alone. The formula is built around bis-aminopropyl diglycol dimaleate, the ingredient Olaplex uses across its lineup to help rebuild broken hair bonds, layered with skincare-inspired additions like ceramides and hyaluronic acid meant to deliver deeper moisture than a typical conditioner.\n\nWhat sets No.8 apart from Olaplex's more treatment-focused numbers is its leaning into botanical oils. Avocado oil, meadowfoam seed oil, rice bran oil, and rose hip seed extract round out the ingredient list, which is the kind of oil-and-ceramide combination that tends to suit dry, color-treated strands that need slip and softness as much as structural repair. The mask uses an airless pump dispenser, which helps with dosing control and reduces product waste compared to jar-based masks.\n\nFor color-treated hair specifically, the appeal is that it is positioned as color-safe and formulated without sulfates, so it should not strip freshly deposited color the way a clarifying treatment might. It is worth noting that the bond-building ingredient appears in a lower concentration here than in Olaplex's dedicated repair treatments, so readers chasing maximum bond repair after heavy bleaching may still want to pair this mask with No.0 or No.3 rather than relying on No.8 alone. As a weekly 10-minute treatment layered into an existing color-safe routine, it is a reasonable moisture-forward option rather than a replacement for a full damage-repair system.",
+      "pros": [
+        "Lightweight oil-and-ceramide blend designed to add slip and softness without heaviness",
+        "Color-safe, sulfate-free formula positioned to work alongside color-treated routines",
+        "Airless pump dispenser gives more control over dosing than open-jar masks",
+        "Only a 10-minute leave-on time fits into a normal shower routine"
+      ],
+      "cons": [
+        "Contains dimethicone, a silicone some low-poo or curl-focused routines try to avoid",
+        "The signature bond-building ingredient is present at a lower concentration than in Olaplex's dedicated repair treatments",
+        "Best results for severely damaged hair likely require pairing with other Olaplex steps rather than using this mask alone"
+      ],
+      "bestFor": "Color-treated hair that is mildly to moderately dry and needs a lightweight weekly moisture boost without heavy build-up.",
+      "editorPick": true,
+      "editorNote": "Selected for its oil-and-ceramide moisture profile that fits a color-safe routine, with the caveat that it is a moisture mask first and a bond-repair treatment second.",
+      "publishDate": "2026-11-02",
+      "slug": "olaplex-no8-bond-intense-moisture-mask-review",
+      "citations": [
+        {
+          "claim": "Featuring Olaplex's patented ingredient bis-aminopropyl diglycol dimaleate, designed to improve hair's shine, hydration and smoothness after use.",
+          "url": "https://behindthechair.com/product-announcements/olaplex-no-8-bond-intense-moisture-mask/",
+          "title": "Olaplex No. 8 Bond Intense Moisture Mask - Behindthechair.com"
+        },
+        {
+          "claim": "The mask is formulated with ceramides and hyaluronic acid along with botanical oils including avocado oil, meadowfoam seed oil, rice bran oil, and rose hip seed extract.",
+          "url": "https://behindthechair.com/product-announcements/olaplex-no-8-bond-intense-moisture-mask/",
+          "title": "Olaplex No. 8 Bond Intense Moisture Mask - Behindthechair.com"
+        },
+        {
+          "claim": "The packaging uses an airless pump to deliver a measured dose of product for less waste.",
+          "url": "https://behindthechair.com/product-announcements/olaplex-no-8-bond-intense-moisture-mask/",
+          "title": "Olaplex No. 8 Bond Intense Moisture Mask - Behindthechair.com"
+        }
+      ]
+    },
+    {
+      "id": "briogeo-dont-despair-repair-deep-conditioning-mask",
+      "name": "Don't Despair, Repair! Deep Conditioning Mask",
+      "brand": "Briogeo",
+      "asin": "B00J4R760C",
+      "price": 0,
+      "priceDisplay": "Price varies by retailer",
+      "rating": 0,
+      "reviewCount": 0,
+      "category": "Hair Masks & Treatments",
+      "categorySlug": "hair-masks",
+      "imageUrl": "https://www.briogeohair.com/cdn/shop/files/dont-despair-repair-deep-conditioning-mask.jpg",
+      "amazonImageUrl": "https://www.briogeohair.com/cdn/shop/files/dont-despair-repair-deep-conditioning-mask.jpg",
+      "hairTypes": ["dry", "color-treated", "damaged", "frizzy"],
+      "shortDescription": "A naturally-derived weekly deep conditioning mask built around rosehip and argan oils, B-vitamins, and biotin for dry, chemically treated hair.",
+      "fullReview": "Briogeo's Don't Despair, Repair! Deep Conditioning Mask has been a long-running staple in the brand's lineup, and its formula leans heavily on plant oils rather than silicones or heavy synthetic conditioning agents. The current version is built with what Briogeo calls its NOVA Complex, combining rosehip and argan oils with B-vitamins, algae extract, and biotin, aimed at replenishing hair that has become dry, brittle, or lackluster from coloring or other chemical services.\n\nThe brand states the mask is formulated to be safe for color-treated, keratin-treated, chemically-treated, and relaxed hair, which matters for readers specifically shopping for a mask that will not strip or fade color between salon visits. It is also positioned as a 98 percent naturally derived, six-free formula, meaning it is made without sulfates, silicones, phthalates, parabens, DEA, or artificial dyes, which is a meaningfully different ingredient philosophy than silicone-forward masks.\n\nOn performance, Briogeo cites an in-house variable-versus-control laboratory study reporting a reduction in hair breakage after three uses of the mask, along with a majority of study participants reporting a noticeable improvement in hydration. Those figures come from the brand's own testing rather than independent peer-reviewed research, so they should be read as manufacturer-reported context rather than an independently verified guarantee. Because the formula skips silicones, hair that typically relies on dimethicone-based slip for detangling may need a leave-in conditioner or detangling spray alongside this mask, particularly on coarser or more tangle-prone textures.",
+      "pros": [
+        "Silicone-free, 98 percent naturally derived formula built on rosehip and argan oils",
+        "Explicitly positioned as safe for color-treated, keratin-treated, and relaxed hair",
+        "Formulated without sulfates, parabens, phthalates, or artificial dyes",
+        "Available in multiple sizes, making it easier to trial before committing to a large jar"
+      ],
+      "cons": [
+        "Breakage-reduction and hydration figures come from the brand's own in-house study rather than independent clinical research",
+        "Lack of silicone means some coarser or more tangle-prone hair types may still want a separate detangler",
+        "Fragrance is included in the formula, which may not suit fragrance-sensitive scalps"
+      ],
+      "bestFor": "Dry, color-treated or chemically-treated hair that needs a weekly naturally-derived conditioning mask without silicones or sulfates.",
+      "editorPick": false,
+      "publishDate": "2026-11-02",
+      "slug": "briogeo-dont-despair-repair-deep-conditioning-mask-review",
+      "citations": [
+        {
+          "claim": "Formulated with Briogeo's NOVA Complex, blending B-vitamins, rosehip and argan oils, algae, and biotin to replenish damaged hair.",
+          "url": "https://www.briogeohair.com/products/dont-despair-repair-deep-conditioning-mask",
+          "title": "Don't Despair, Repair!™ Deep Conditioning Mask"
+        },
+        {
+          "claim": "The mask is safe for color treated, keratin treated, chemically-treated, and relaxed hair, and is a 98% naturally derived six-free formula.",
+          "url": "https://www.briogeohair.com/products/dont-despair-repair-deep-conditioning-mask",
+          "title": "Don't Despair, Repair!™ Deep Conditioning Mask"
+        },
+        {
+          "claim": "In a variable versus control laboratory study, hair treated with the mask showed a reduction in breakage after three uses, and most participants reported a noticeable improvement in hydration.",
+          "url": "https://briogeo-dev.myshopify.com/products/dont-despair-repair-deep-conditioning-mask",
+          "title": "Don't Despair, Repair!™ Deep Conditioning Mask 2oz"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "olaplex-no8-vs-briogeo-dont-despair-repair",
+      "title": "Olaplex No.8 Bond Intense Moisture Mask vs. Briogeo Don't Despair, Repair! Deep Conditioning Mask",
+      "subtitle": "Two weekly hair masks built for dry, color-treated hair, compared on formula philosophy and color-safety",
+      "category": "Hair Masks & Treatments",
+      "categorySlug": "hair-masks",
+      "product1Id": "olaplex-no8-bond-intense-moisture-mask",
+      "product2Id": "briogeo-dont-despair-repair-deep-conditioning-mask",
+      "winnerId": "briogeo-dont-despair-repair-deep-conditioning-mask",
+      "winnerReason": "Briogeo's mask is explicitly positioned as safe for color-treated, keratin-treated, and relaxed hair and skips sulfates and silicones entirely, which makes it a more targeted fit for readers whose main concern is preserving color vibrancy while treating dryness, whereas Olaplex's No.8 still contains dimethicone and places more emphasis on its lower-concentration bond-building ingredient than on a specifically color-safe positioning.",
+      "verdict": "Both masks are reasonable weekly treatments for dry hair, but they solve slightly different problems. Olaplex No.8 leans on ceramides, hyaluronic acid, and a diluted dose of its patented bond-building molecule inside a silicone-containing formula, which suits readers who want a smoothing, shine-forward mask and don't mind some silicone. Briogeo's Don't Despair, Repair! mask is silicone-free, naturally derived, and marketed specifically as safe for color-treated and chemically-treated hair, making it the stronger pick for readers whose primary goal is maintaining color vibrancy while addressing dryness, though its performance claims come from brand-run testing rather than independent studies.",
+      "publishDate": "2026-11-02",
+      "slug": "olaplex-no8-vs-briogeo-dont-despair-repair",
+      "hairTypes": ["dry", "color-treated", "damaged"],
+      "citations": [
+        {
+          "claim": "Olaplex No.8 is formulated with ceramides, hyaluronic acid, and botanical oils alongside its patented bond-building ingredient.",
+          "url": "https://behindthechair.com/product-announcements/olaplex-no-8-bond-intense-moisture-mask/",
+          "title": "Olaplex No. 8 Bond Intense Moisture Mask - Behindthechair.com"
+        },
+        {
+          "claim": "Briogeo's Don't Despair, Repair! mask is safe for color treated, keratin treated, chemically-treated, and relaxed hair and is a 98% naturally derived six-free formula.",
+          "url": "https://www.briogeohair.com/products/dont-despair-repair-deep-conditioning-mask",
+          "title": "Don't Despair, Repair!™ Deep Conditioning Mask"
+        }
+      ]
+    }
+  ]
+}
+```
