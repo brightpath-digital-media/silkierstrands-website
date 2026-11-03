@@ -1,0 +1,14 @@
+{
+  "suggestedSubject": "Head to head: Dyson Supersonic vs. ghd Helios Professional Hair Dryer",
+  "previewText": "These two dryers sit at the top of the professional end of the market, but they solve different problems. The Dyson Supersonic is built around heat management: ",
+  "fromName": "SilkierStrands",
+  "fromAddress": "hello@silkierstrands.com",
+  "listName": "SilkierStrands newsletter list",
+  "articleUrl": "https://silkierstrands.com/comparison/dyson-supersonic-vs-ghd-helios-hair-dryer",
+  "publishedDate": "2026-10-30",
+  "articleTitle": "Dyson Supersonic vs. ghd Helios Professional Hair Dryer",
+  "articleSource": "client/src/lib/products.ts (comparisons)",
+  "recordType": "comparison",
+  "stagedAt": "2026-11-03T20:01:44.733Z",
+  "note": "Create and send this campaign manually in Klaviyo. This workflow never calls any email API."
+}
