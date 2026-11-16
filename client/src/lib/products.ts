@@ -2792,6 +2792,22 @@ export function getEditorPicks(): Product[] {
 // COMPARISONS (6 - one per category)
 // ============================================================
 export const comparisons: Comparison[] = [
+  // ── Weekly additions 2026-11-16 ──
+  {
+    id: "amika-kure-vs-briogeo-dont-despair-repair-mask",
+    title: "amika The Kure vs. Briogeo Don't Despair, Repair! Hair Mask",
+    subtitle: "A rich bond-fortifying weekly mask versus a protein-and-moisture-balanced weekly mask for dry or color-treated hair",
+    category: "Hair Masks & Treatments",
+    categorySlug: "hair-masks",
+    product1Id: "amika-kure-intense-strength-repair-mask",
+    product2Id: "briogeo-dont-despair-repair-mask",
+    winnerId: "briogeo-dont-despair-repair-mask",
+    winnerReason: "Briogeo is the conditional pick for shoppers who want a weekly mask described as balancing protein and moisture, in a vegan, cruelty-free formula. amika is the better fit for shoppers with dry, thick, coarse, curly or high-porosity hair who want a richer, butter-and-oil-based treatment and are comfortable with the fragrance and dimethicone that its listing includes.",
+    verdict: "Both are weekly treatments rather than daily conditioners, so the choice comes down to texture and ingredient preferences. amika The Kure is cataloged as an ultra-rich mask that pairs bond-fortifying technology with sea buckthorn, borage oil, shea butter and mango butter, aimed at damaged, high-porosity hair, and its listing includes fragrance and dimethicone. Briogeo Don't Despair, Repair! is cataloged as a deep conditioning mask built around balancing protein and moisture, with rosehip oil and algae extract in a vegan, cruelty-free formula that may be too rich for very fine, oily hair. Check each listing for current ingredients, size and directions, and patch test if you have sensitivities.",
+    publishDate: "2026-11-16",
+    slug: "amika-kure-vs-briogeo-dont-despair-repair-mask",
+    hairTypes: ["dry", "damaged", "color-treated", "curly"],
+  },
   // ── Weekly additions 2026-10-30 ──
   {
     "id": "dyson-supersonic-vs-ghd-helios-hair-dryer",
