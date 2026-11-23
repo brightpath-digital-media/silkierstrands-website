@@ -2792,6 +2792,22 @@ export function getEditorPicks(): Product[] {
 // COMPARISONS (6 - one per category)
 // ============================================================
 export const comparisons: Comparison[] = [
+  // ── Weekly additions 2026-11-23 ──
+  {
+    id: "sheamoisture-manuka-honey-vs-amika-soulfood-mask",
+    title: "SheaMoisture Manuka Honey & Mafura Oil Masque vs. Amika Soulfood Nourishing Mask",
+    subtitle: "A honey-and-Mafura-oil intensive masque versus a sea buckthorn oil nourishing mask for dry, coarse or curly hair",
+    category: "Hair Masks & Treatments",
+    categorySlug: "hair-masks",
+    product1Id: "sheamoisture-manuka-honey-mask",
+    product2Id: "amika-soulfood-mask",
+    winnerId: "sheamoisture-manuka-honey-mask",
+    winnerReason: "SheaMoisture is the conditional pick for shoppers with dry, curly, coily or coarse hair who want a honey-and-oil intensive masque and are comfortable giving it extra time or heat. Amika Soulfood is the better fit for shoppers who prefer a sea buckthorn oil mask with a shorter listed treatment time and who like a signature scent.",
+    verdict: "Both are rich weekly-style treatments rather than everyday conditioners, so the choice comes down to ingredients, scent and how heavy your hair tolerates. SheaMoisture Manuka Honey & Mafura Oil is cataloged as an intensive hydration masque built around Manuka honey and Mafura oil for dry, curly, coily and coarse hair; its record notes the formula may be too heavy for fine or low-porosity hair, the fragrance is strong, and heat or extended time may be needed. Amika Soulfood is cataloged as a nourishing mask infused with sea buckthorn oil for dry, thick, coarse and curly hair; its record notes the scent is strong, it can be too heavy for fine hair, and it needs 10 or more minutes. If your hair is fine, or you are sensitive to fragrance, check each listing and consider testing a small amount first.",
+    publishDate: "2026-11-23",
+    slug: "sheamoisture-manuka-honey-vs-amika-soulfood-mask",
+    hairTypes: ["dry", "curly", "coily", "coarse"],
+  },
   // ── Weekly additions 2026-11-16 ──
   {
     id: "amika-kure-vs-briogeo-dont-despair-repair-mask",
